@@ -1,0 +1,84 @@
+#map {height:100vh; width:100vw;}
+
+
+
+.custom-marker {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+  
+}
+
+.marker-content {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.marker-image {
+    width: 40px; /* Ajusta el tamaño de la imagen */
+    height: 40px;
+    border-radius: 50%; /* Hace la imagen circular */
+    mask-image: radial-gradient(circle, white 100%, transparent 100%);
+    mask-composite: intersect; /* Crea una máscara circular */
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Sombra */
+  
+}/* Ajusta el ancho del select y el padding del input */
+.form-select,
+.search-bar input {
+    background-color: #ffffff;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    color: #495057;
+    padding: 10px 40px 10px 20px; /* Ajusta el padding para el ícono de búsqueda en píxeles */
+    font-size: 16px; /* Tamaño de fuente en píxeles */
+    line-height: 1.5;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    width: auto; /* Cambia el ancho del dropdown a automático */
+    max-width: 200px; /* Establece el ancho máximo para evitar que el dropdown sea demasiado largo */
+    position: relative; /* Permite posicionar el ícono dentro del input */
+}
+
+/* Ajusta el padding del input */
+.search-bar input {
+    width: 100%; /* Hace que el input se expanda para ocupar todo el espacio disponible */
+    padding-right: 40px; /* Ajusta el padding del lado derecho para el ícono de búsqueda en píxeles */
+}
+
+/* Estilos para el ícono de búsqueda dentro del input */
+.search-bar .search-icon {
+    position: absolute;
+    right: 20px; /* Ajusta la posición del ícono desde el lado derecho en píxeles */
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+/* Estilos para el ícono de búsqueda */
+.search-bar .search-icon i {
+    font-size: 20px; /* Tamaño de ícono de búsqueda en píxeles */
+    color: #6c757d;
+}
+
+/* Estilos para el contenedor de los dropdowns y la searchbar */
+.filter-container {
+    display: flex;
+    align-items: center;
+}
+
+/* Espaciado entre los dropdowns y la searchbar */
+#categoriaDropdown {
+    background-color: #ffffff;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    color: #495057;
+    padding: 10px !important; /* Ajusta el padding en píxeles */
+    font-size: 16px; /* Tamaño de fuente en píxeles */
+    line-height: 1.5;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    max-width: auto; /* Establece el ancho máximo para el dropdown de rubros en píxeles */
+    margin-right: 16px; /* Establece la distancia entre el final de la flecha y el inicio de la palabra en píxeles */
+}
