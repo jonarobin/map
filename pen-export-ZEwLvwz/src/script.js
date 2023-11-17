@@ -107,3 +107,4 @@ changeCategoryButton.addEventListener('click', function () {
 });
 
 
+
