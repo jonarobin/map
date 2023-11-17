@@ -24,7 +24,7 @@ body, html, #parentElement, #map {
   }}
 
 
-@media (max-width: 600px) {
+@media (max-width: 450px) {
   #map {
     width: 100%; /* Ocupa todo el ancho */
     border-radius: 0; /* Elimina los bordes redondeados */
