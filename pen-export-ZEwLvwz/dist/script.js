@@ -105,3 +105,5 @@ changeCategoryButton.addEventListener('click', function () {
     // Actualiza el dropdown
     categoriaDropdown.value = selectedCategoria;
 });
+
+
