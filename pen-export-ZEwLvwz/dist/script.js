@@ -11,7 +11,6 @@ let geojson_url = "https://raw.githubusercontent.com/jonarobin/Map-demo/main/Dem
 
 let markersLayer;
 let allCategories = []; // Array que almacena todas las categorías
-
 fetch(geojson_url)
     .then(res => res.json())
     .then(data => {
@@ -22,7 +21,9 @@ fetch(geojson_url)
                 return L.marker(latlng, {
                     icon: L.divIcon({
                         className: 'custom-marker',
-                        html: `<div class="marker-content"><img class="marker-image" src="${feature.properties.Foto}" alt="${feature.properties.Nombre}" /></div>`
+                        html: `<div class="marker-content"><img class="marker-image" src="${feature.properties.Foto}" alt="${feature.properties.Nombre}" /></div>`,
+                        iconSize: [25, 41], // Tamaño del icono
+                        iconAnchor: [12, 41], // Punto de anclaje del icono
                     })
                 });
             },
@@ -37,6 +38,9 @@ fetch(geojson_url)
 
         map.fitBounds(markersLayer.getBounds());
     });
+
+
+
 
 let searchInput = document.getElementById('searchInput');
 const geocoder = L.Control.Geocoder.nominatim({
