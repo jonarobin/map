@@ -1,84 +1,84 @@
 #map {
-    height: 100vh;
-    width: 100vw;
-    position: relative;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
 }
 
 .custom-marker {
-    position: relative;
-    width: 40px;
-    height: 40px;
-    background-color: transparent;
+  position: relative;
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
 }
 
 .marker-content {
-    position: absolute;
-    bottom: -20px;
-    left: 50%;
-    transform: translateX(-50%);
-    text-align: center;
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
 }
 
 .marker-image {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    mask-image: radial-gradient(circle, white 100%, transparent 100%);
-    mask-composite: intersect;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  mask-image: radial-gradient(circle, white 100%, transparent 100%);
+  mask-composite: intersect;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
 }
 
 .form-select,
 .search-bar input {
-    background-color: #ffffff;
-    border: 1px solid #ced4da;
-    border-radius: 8px;
-    color: #495057;
-    padding: 10px 40px 10px 20px;
-    font-size: 16px;
-    line-height: 1.5;
-    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-    width: auto;
-    max-width: 200px;
-    position: relative;
+  background-color: #ffffff;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  color: #495057;
+  padding: 10px 40px 10px 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  width: auto;
+  max-width: 200px;
+  position: relative;
 }
 
 .search-bar input {
-    width: 100%;
-    padding-right: 40px;
+  width: 100%;
+  padding-right: 40px;
 }
 
 .search-bar .search-icon {
-    position: absolute;
-    right: 20px;
-    top: 50%;
-    transform: translateY(-50%);
-    cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
 }
 
 .search-bar .search-icon i {
-    font-size: 20px;
-    color: #6c757d;
+  font-size: 20px;
+  color: #6c757d;
 }
 
 .filter-container {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 #categoriaDropdown {
-    background-color: #ffffff;
-    border: 1px solid #ced4da;
-    border-radius: 8px;
-    color: #495057;
-    padding: 10px !important;
-    font-size: 16px;
-    line-height: 1.5;
-    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-    max-width: auto;
-    margin-right: 16px;
+  background-color: #ffffff;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  color: #495057;
+  padding: 10px !important;
+  font-size: 16px;
+  line-height: 1.5;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  max-width: auto;
+  margin-right: 16px;
 }
 
 .hidden {
-    display: none !important;
+  display: none !important;
 }
