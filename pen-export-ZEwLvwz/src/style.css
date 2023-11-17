@@ -133,7 +133,7 @@ body, html, #parentElement, #map {
 .form-select option {
   padding: 10px;
 }
-@media (max-width: 768px) {
+@media (max-width: 450px) {
   .form-select {
     width: 30%; /* Ajusta el ancho en móvil */
     margin-right: 3%;
