@@ -28,7 +28,7 @@ fetch(geojson_url)
             },
             onEachFeature: function (feature, layer) {
                 layer.on('click', function () {
-                    window.location.href = feature.properties['URL Store'];
+                                    window.open(feature.properties['URL Store'], '_blank');
                 });
             }
         });
