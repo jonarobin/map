@@ -15,7 +15,7 @@ body, html, #parentElement, #map {
   border-radius: 32px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 450px) {
   body, html, #parentElement, #map {
     margin: 0;
     padding: 0;
@@ -187,14 +187,31 @@ body, html, #parentElement, #map {
 .search-bar input, .form-select {
   /* Resto del código... */
   font-family: 'Poppins', sans-serif;
-  color: #6A6A6A;
-  font-weight: 200;
+  color: #6A6A6A !important;
+  font-weight: 400;
 /* Ajusta este valor a 400 para Poppins Normal */
 }
 
 .leaflet-control-zoom a {
   padding: 6px;
   margin-bottom: 6px !important;
+
+}
+
+.leaflet-control-zoom-in, .leaflet-control-zoom-out{
+  border-radius: 24px !important;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1)!important;
+
+}
+
+.leaflet-bar{
+margin: 16px;
+
+border-color: transparent !important;
+}
+
+.leaflet-left, .leaflet-rigth{
+  margin: 16px;
 
 }
 
