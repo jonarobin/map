@@ -1,7 +1,7 @@
 #map {
     height: 100vh;
     width: 100vw;
-    overflow: hidden; /* Agrega overflow: hidden para ocultar contenido que sobresale */
+    position: relative;
 }
 
 .custom-marker {
