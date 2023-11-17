@@ -1,13 +1,38 @@
 #map {
-  height: 90vh;
-  width: auto;
+  height: 100vh;
   position: relative;
   border: 1px solid #EBEBEB;
   border-radius: 32px;
   overflow: hidden;
   display: block; /* Añade esta línea */
-margin-left: 24px;
-margin-right: 21px;
+}
+
+body, html, #parentElement, #map {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+  border-radius: 32px;
+}
+
+@media (max-width: 600px) {
+  body, html, #parentElement, #map {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+  }}
+
+
+@media (max-width: 600px) {
+  #map {
+    width: 100%; /* Ocupa todo el ancho */
+    border-radius: 0; /* Elimina los bordes redondeados */
+    border :none;
+    border-top: 1px solid #EBEBEB;
+    margin-left: 0; /* Elimina el margen izquierdo */
+    margin-right: 0; /* Elimina el margen derecho */
+  }
 }
 
 /* Mueve el control de zoom del mapa más abajo */
@@ -43,19 +68,19 @@ margin-right: 21px;
 .search-bar input {
   background-color: #ffffff;
   border: 1px solid #EBEBEB;
-  border-radius: 16px;
+  border-radius: 30px;
  color: #c2c2c2;
   padding: 10px 20px;
   font-size: 16px;
   line-height: 1.5;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-  width: 200px; /* Ajusta el ancho en escritorio */
-  margin-top: 10px;
+  width: 260px; /* Ajusta el ancho en escritorio */
+  
 
   margin-bottom: 24px;
   height: 30px;
    /* Resto del código... */
-   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path fill='%23A9A9A9' d='M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path fill='%23A9A9A9' d='M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
    background-position: 14px 12px; /* Posiciona el icono */
    background-repeat: no-repeat; /* Evita que el icono se repita */
    padding-left: 44px;
@@ -87,6 +112,11 @@ margin-right: 21px;
   background-position: right .75rem center;
   background-size: 1.5em;
   padding-right: 2.5rem;
+  display: none; /* oculta el filtro por rubro*/
+  /*17 Nov lo oculte para poder controlarlos rubros 
+  desde el geojson, duplico el mapa y le pongo 
+  distintas categorias con distintos geojson
+  y los llamo desde let geojson_url */
 }
 
 
@@ -98,27 +128,34 @@ margin-right: 21px;
   box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
 }
 
+
 /* Estilos para las opciones del dropdown */
 .form-select option {
   padding: 10px;
 }
-
 @media (max-width: 768px) {
   .form-select {
     width: 30%; /* Ajusta el ancho en móvil */
-    margin-top: 10px;
     margin-right: 3%;
+  }
 
+  .search-bar {
+    width: 100%; /* Ocupa todo el ancho */
+    padding: 0 24px; /* Añade un padding de 24px a ambos lados */
+    box-sizing: border-box; /* Asegura que el ancho incluya el padding */
   }
 
   .search-bar input {
-    width: 77%; /* Ajusta el ancho en móvil */
-
-    margin-top: 10px;
-
-   
+    width: 100%; /* Ajusta el ancho en móvil */
+    margin: 0; /* Elimina el margen del input */
+    box-sizing: border-box; 
+    height: 50px;
+    margin-bottom: 24px;/* Asegura que el ancho incluya el padding y el borde */
   }
 }
+
+
+
 
 .search-bar .search-icon {
   position: absolute;
@@ -150,13 +187,14 @@ margin-right: 21px;
 .search-bar input, .form-select {
   /* Resto del código... */
   font-family: 'Poppins', sans-serif;
-  font-weight: 400;
-  color: #757575; /* Ajusta este valor a 400 para Poppins Normal */
+  color: #6A6A6A;
+  font-weight: 200;
+/* Ajusta este valor a 400 para Poppins Normal */
 }
 
 .leaflet-control-zoom a {
-  padding: 10px;
-  margin-bottom: 8px !important;
+  padding: 6px;
+  margin-bottom: 6px !important;
 
 }
 
