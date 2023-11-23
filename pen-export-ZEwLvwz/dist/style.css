@@ -34,7 +34,7 @@ body, html, #parentElement, #map {
   .leaflet-control-zoom {
     display: none;}
     .search-bar input {
-      top: 80px; /* Ajusta este valor para mover la barra de búsqueda hacia arriba o hacia abajo */
+      top: 180px; /* Ajusta este valor para mover la barra de búsqueda hacia arriba o hacia abajo */
     }
 }
 
