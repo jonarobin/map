@@ -74,10 +74,8 @@ body, html, #parentElement, #map {
   font-size: 16px;
   line-height: 1.5;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-  width: 260px; /* Ajusta el ancho en escritorio */
   
 
-  margin-bottom: 24px;
   height: 30px;
    /* Resto del código... */
    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path fill='%23A9A9A9' d='M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
@@ -91,6 +89,7 @@ body, html, #parentElement, #map {
 .search-bar input {
   top: 32px; /* Ajusta este valor para mover la barra de búsqueda hacia arriba o hacia abajo */
   left: 32px; 
+  right: 32px ;
   position: absolute;
   z-index: 1000; /* Asegúrate de que la barra de búsqueda esté por encima del mapa */
   box-shadow: 0 2px 40px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
@@ -105,7 +104,7 @@ body, html, #parentElement, #map {
   font-size: 16px;
   line-height: 1.5;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-  width: 140px; /* Ajusta el ancho en escritorio */
+   /* Ajusta el ancho en escritorio */
   margin-top: 10px;
   margin-bottom: 21.56px;
   margin-left: 23px;
@@ -145,13 +144,13 @@ body, html, #parentElement, #map {
   }
 
   .search-bar {
-    width: 100%; /* Ocupa todo el ancho */
+    width: 80%; /* Ocupa todo el ancho */
     padding: 0 24px; /* Añade un padding de 24px a ambos lados */
     box-sizing: border-box; /* Asegura que el ancho incluya el padding */
   }
 
   .search-bar input {
-    width: 100%; /* Ajusta el ancho en móvil */
+    width: 80%; /* Ajusta el ancho en móvil */
     margin: 0; /* Elimina el margen del input */
     box-sizing: border-box; 
     height: 50px;
@@ -225,5 +224,4 @@ border-color: transparent !important;
 .leaflet-control-zoom {
   margin-top: 70px !important; /* Ajusta este valor para mover los controles de zoom hacia arriba o hacia abajo */
 }
-
 
