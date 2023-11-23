@@ -2,7 +2,6 @@
   height: 100vh;
   position: relative;
   border: 1px solid #EBEBEB;
-  border-radius: 32px;
   overflow: hidden;
   display: block; /* Añade esta línea */
 }
@@ -12,7 +11,6 @@ body, html, #parentElement, #map {
   padding: 0;
   height: 100vh;
   overflow: hidden;
-  border-radius: 32px;
 }
 
 @media (max-width: 450px) {
@@ -33,11 +31,13 @@ body, html, #parentElement, #map {
     margin-left: 0; /* Elimina el margen izquierdo */
     margin-right: 0; /* Elimina el margen derecho */
   }
+
+
 }
 
 /* Mueve el control de zoom del mapa más abajo */
 .leaflet-control-zoom {
-  margin-top: 20px; /* Ajusta este valor según tus necesidades */
+  margin-top: 200px; /* Ajusta este valor según tus necesidades */
 }
 
 .custom-marker {
@@ -89,7 +89,12 @@ body, html, #parentElement, #map {
 
 
 .search-bar input {
-  padding-right: 40px;
+  top: 32px; /* Ajusta este valor para mover la barra de búsqueda hacia arriba o hacia abajo */
+  left: 32px; 
+  position: absolute;
+  z-index: 1000; /* Asegúrate de que la barra de búsqueda esté por encima del mapa */
+  box-shadow: 0 2px 40px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
+
 }
 
 .form-select {
@@ -152,6 +157,9 @@ body, html, #parentElement, #map {
     height: 50px;
     margin-bottom: 24px;/* Asegura que el ancho incluya el padding y el borde */
   }
+
+
+  
 }
 
 
@@ -205,29 +213,17 @@ body, html, #parentElement, #map {
 }
 
 .leaflet-bar{
-margin: 16px;
+margin: 32px;
 
 border-color: transparent !important;
 }
 
-.leaflet-left, .leaflet-rigth{
-  margin: 16px;
+.leaflet-left, .leaflet-top{
+  margin: 32px;
 
 }
-
-.leaflet-control-zoom-in, .leaflet-control-zoom-out{
-  border-radius: 24px !important;
-  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1)!important;
-
+.leaflet-control-zoom {
+  margin-top: 70px !important; /* Ajusta este valor para mover los controles de zoom hacia arriba o hacia abajo */
 }
 
-.leaflet-bar{
-margin: 16px;
 
-border-color: transparent !important;
-}
-
-.leaflet-left, .leaflet-rigth{
-  margin: 16px;
-
-}
