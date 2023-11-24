@@ -231,3 +231,9 @@ border-color: transparent !important;
   margin-top: 70px !important; /* Ajusta este valor para mover los controles de zoom hacia arriba o hacia abajo */
 }
 
+@media (max-width: 450px) {
+  .search-bar input {
+    top: 96px !important; /* Ajusta este valor para mover la barra de búsqueda hacia abajo */
+    /* Asegura que el ancho incluya el padding y el borde */
+  }
+}
