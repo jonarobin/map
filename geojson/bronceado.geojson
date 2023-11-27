@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4102608,
+          -34.5925829
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Barrio Norte",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4348862,
+          -34.568322
+        ]
+      },
+      "properties": {
+        "Nombre": "Hawai Solarium",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/iKgYovq.jpg",
+        "URL Store": "https://agenddo.com/hawai-solarium",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4322035,
+          -34.571427
+        ]
+      },
+      "properties": {
+        "Nombre": "Luxury Bronze",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/Mao3MLE.jpg",
+        "URL Store": "https://agenddo.com/luxury-bronze-cañitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4572796,
+          -34.5597862
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Belgrano",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4419817,
+          -34.620575
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Caballito",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4925973,
+          -34.8691086
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Canning",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-canning",
+        "Barrio": "Canning",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4020201,
+          -34.7650545
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Las Lomitas",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-las-lomitas",
+        "Barrio": "Lomas de Zamora",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6527664,
+          -34.4008443
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Nordelta",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-nordelta",
+        "Barrio": "Nordelta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4618177,
+          -34.5431323
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Nuñez",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-nuñez",
+        "Barrio": "Nuñez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4792702,
+          -34.5077523
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Olivos",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-olivos",
+        "Barrio": "Olivos",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4260078,
+          -34.5847907
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Palermo",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8049735,
+          -34.4380196
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Pilar",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-pilar",
+        "Barrio": "Pilar",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5633649,
+          -34.6437897
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Ramos Mejía",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-ramos-mejia",
+        "Barrio": "Ramos Mejía",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3931305,
+          -34.5956893
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Recoleta",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5120436,
+          -34.4686756
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - San Isidro",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-san-isidro",
+        "Barrio": "San Isidro",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4829611,
+          -34.5751452
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Urquiza",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-urquiza",
+        "Barrio": "Villa Urquiza",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4533751,
+          -34.6140272
+        ]
+      },
+      "properties": {
+        "Nombre": "Tan & Go",
+        "Rubro": "Bronceado",
+        "Foto": "https://i.imgur.com/IzW34tX.jpg",
+        "URL Store": "https://agenddo.com/tan-&-go",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4703827,
+          -34.5476164
+        ]
+      },
+      "properties": {
+        "Nombre": "Viva Le Glam Studio - Saavedra",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal",
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/5401EmA.jpg",
+        "URL Store": "https://agenddo.com/viva-le-glam-studio-saavedra",
+        "Barrio": "Saavedra",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

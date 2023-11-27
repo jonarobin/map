@@ -1,0 +1,303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alcorta",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación",
+          "EyeBeauty",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-alcorta",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4104412,
+          -34.5880019
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alto Palermo",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-alto-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878626,
+          -34.5969608
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Barrio Norte",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4535856,
+          -34.5628647
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4878536,
+          -34.5464842
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Dot",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-dot",
+        "Barrio": "Saavedra",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4965717,
+          -34.4873188
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Martínez",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-Martínez",
+        "Barrio": "Martínez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3840901,
+          -34.5891244
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Patio Bullrich",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-patio-bullrich",
+        "Barrio": "Retiro",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4186065,
+          -34.5912322
+        ]
+      },
+      "properties": {
+        "Nombre": "Grismi Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/E8mMISD.jpg",
+        "URL Store": "https://agenddo.com/grismi-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Juicy Make Up",
+        "Rubro": [
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/XkA5K3n.jpg",
+        "URL Store": "https://agenddo.com/juicy-make-up",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4166893,
+          -34.5858915
+        ]
+      },
+      "properties": {
+        "Nombre": "Julieta Beauty Studio",
+        "Rubro": [
+          "SkinCare",
+          "Masajes",
+          "EyeBeauty",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/aeUt9iP.jpg",
+        "URL Store": "https://agenddo.com/julieta-beauty-studio",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4303218,
+          -34.5713329
+        ]
+      },
+      "properties": {
+        "Nombre": "Loly Peluquería & Estética",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/Qe6jxjy.jpg",
+        "URL Store": "https://agenddo.com/loly-peluqueria-&-estetica",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4537673,
+          -34.5592758
+        ]
+      },
+      "properties": {
+        "Nombre": "New Studio Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación",
+          "Barbería",
+          "EyeBeauty",
+          "Masajes",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/4HyDX2a.jpg",
+        "URL Store": "https://agenddo.com/new-studio-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4458057,
+          -34.5898899
+        ]
+      },
+      "properties": {
+        "Nombre": "Nicole Maquillando Studio",
+        "Rubro": [
+          "MakeUp",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/3xoTDVZ.jpg",
+        "URL Store": "https://agenddo.com/nicole-maquillando-studio",
+        "Barrio": "Chacarita",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

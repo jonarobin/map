@@ -1,0 +1,474 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4500642,
+          -34.5677757
+        ]
+      },
+      "properties": {
+        "Nombre": "Balboa",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/RO6RwJ6.jpg",
+        "URL Store": "https://agenddo.com/balboa",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4537673,
+          -34.5592758
+        ]
+      },
+      "properties": {
+        "Nombre": "New Studio Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación",
+          "Barbería",
+          "EyeBeauty",
+          "Masajes",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/4HyDX2a.jpg",
+        "URL Store": "https://agenddo.com/new-studio-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4377306,
+          -34.5834542
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería Filo",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/ykntjWf.jpg",
+        "URL Store": "https://agenddo.com/peluqueria-filo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4528419,
+          -34.5829409
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería Il Figaro",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/wbA5CuE.jpg",
+        "URL Store": "https://agenddo.com/peluqueria-il-figaro",
+        "Barrio": "Chacarita",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4594581,
+          -34.560122
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería y Barbería Montesco",
+        "Rubro": [
+          "Barbería",
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/9HhXInH.jpg",
+        "URL Store": "https://agenddo.com/peluqueria-y-barberia-montesco",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432667,
+          -34.582187
+        ]
+      },
+      "properties": {
+        "Nombre": "Rústica Peluquería Barbería",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/bMFmwgc.jpg",
+        "URL Store": "https://agenddo.com/rustica-peluqueria-barberia",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878396,
+          -34.5972835
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Barrio Norte",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.458205,
+          -34.5716332
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4290956,
+          -34.6255402
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Caballito",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4539104,
+          -34.6290182
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Flores",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-flores",
+        "Barrio": "Flores",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.430521,
+          -34.5726811
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Las Cañitas",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-las-cañitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4004306,
+          -34.7569141
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Lomas Estación",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-lomas-estación",
+        "Barrio": "Lomas de Zamora",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4021765,
+          -34.7640349
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Lomitas",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-lomitas",
+        "Barrio": "Lomas de Zamora",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3733715,
+          -34.6030592
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Microcentro",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-microcentro",
+        "Barrio": "San Nicolás",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4558155,
+          -34.6122955
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Plaza Irlanda",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-plaza-irlanda",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3611094,
+          -34.6174827
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Puerto Madero",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-puerto-madero",
+        "Barrio": "Puerto Madero",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3883938,
+          -34.5887708
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Recoleta",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.378517,
+          -34.5967119
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Retiro",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-retiro",
+        "Barrio": "Retiro",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4710511,
+          -34.5281058
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Vicente Lopez",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-vicente-lopez",
+        "Barrio": "Vicente Lopez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4941142,
+          -34.6046392
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Villa del Parque",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-villa-del-parque",
+        "Barrio": "Villa del Parque",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4785796,
+          -34.5094648
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Olivos",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-olivos",
+        "Barrio": "Olivos",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3629846,
+          -34.6170045
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Puerto Madero",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-puerto-madero",
+        "Barrio": "Puerto Madero",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

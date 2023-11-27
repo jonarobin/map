@@ -1,0 +1,615 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4617731,
+          -34.576046
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Belgrano",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/DFtMJsB.jpg",
+        "URL Store": "https://agenddo.com/ambar-spa-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4366211,
+          -34.5862006
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Palermo",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/DFtMJsB.jpg",
+        "URL Store": "https://agenddo.com/ambar-spa-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4607027,
+          -34.557933
+        ]
+      },
+      "properties": {
+        "Nombre": "ByH Estética",
+        "Rubro": [
+          "Uñas",
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/2S8KI74.jpg",
+        "URL Store": "https://agenddo.com/byh-estetica",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3929064,
+          -34.7428121
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Banfield",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-banfield",
+        "Barrio": "Banfield",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4555072,
+          -34.5654085
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Ciudad de La Paz",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-ciudad-de-la-paz",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4157334,
+          -34.5876024
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Julián Alvarez",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-julian-alvarez",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4346495,
+          -34.5655187
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Las Cañitas",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-las-cañitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4926897,
+          -34.5066853
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Olivos",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-olivos",
+        "Barrio": "Olivos",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6922995,
+          -34.6271305
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Parque Leloir",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-parque-leloir",
+        "Barrio": "Ituzaingó",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7144787,
+          -34.3912372
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Villa Nueva",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-villa-nueva",
+        "Barrio": "Benavídez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4257849,
+          -34.5802867
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética BE ",
+        "Rubro": [
+          "Estética Corporal",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/AceVzQF.jpg",
+        "URL Store": "https://agenddo.com/estetica-be",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4314923,
+          -34.6200485
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Martínez - Caballito",
+        "Rubro": [
+          "Medicina Estética",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/EQyJ6iL.jpg",
+        "URL Store": "https://agenddo.com/estetica-Martínez-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4332759,
+          -34.5772964
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Viso ",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/E6d8bP9.jpg",
+        "URL Store": "https://agenddo.com/estetica-viso",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4466365,
+          -34.6042849
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética y Masajes Bambú",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/LLrzF3K.jpg",
+        "URL Store": "https://agenddo.com/estetica-y-masajes-bambu",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4166893,
+          -34.5858915
+        ]
+      },
+      "properties": {
+        "Nombre": "Julieta Beauty Studio",
+        "Rubro": [
+          "SkinCare",
+          "Masajes",
+          "EyeBeauty",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/aeUt9iP.jpg",
+        "URL Store": "https://agenddo.com/julieta-beauty-studio",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Marquesa Spa de Belleza",
+        "Rubro": [
+          "Uñas",
+          "SkinCare",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/BvcxuNY.jpg",
+        "URL Store": "https://agenddo.com/marquesa-spa-de-belleza",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4341191,
+          -34.5996641
+        ]
+      },
+      "properties": {
+        "Nombre": "Nancy Bonito Estética Integral",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/m06GKwx.jpg",
+        "URL Store": "https://agenddo.com/nancy-bonito-estetica-integral",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4544578,
+          -34.5674491
+        ]
+      },
+      "properties": {
+        "Nombre": "Nuevo Módulo 2",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/pnL3CMr.jpg",
+        "URL Store": "https://agenddo.com/nuevo-modulo-2",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4172373,
+          -34.589766
+        ]
+      },
+      "properties": {
+        "Nombre": "Sensoria Estética & Spa ",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Depilación",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/Z4BZRJn.jpg",
+        "URL Store": "https://agenddo.com/sensoria-estetica-&-spa",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4503234,
+          -34.5501163
+        ]
+      },
+      "properties": {
+        "Nombre": "Shining - Belleza Saludable",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/hHx1980.jpg",
+        "URL Store": "https://agenddo.com/shining-belleza-saludable",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4492923,
+          -34.5753487
+        ]
+      },
+      "properties": {
+        "Nombre": "Soylashista",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/az47UXD.jpg",
+        "URL Store": "https://agenddo.com/soylashista",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4392999,
+          -34.5987922
+        ]
+      },
+      "properties": {
+        "Nombre": "Spa & Estética CL",
+        "Rubro": [
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/Ey4b80b.jpg",
+        "URL Store": "https://agenddo.com/spa-&-estetica-cl",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4579835,
+          -34.6039561
+        ]
+      },
+      "properties": {
+        "Nombre": "Spa Beauty Kd Angel's",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/6aQdzt0.jpg",
+        "URL Store": "https://agenddo.com/spa-beauty-kd-angel's",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4703827,
+          -34.5476164
+        ]
+      },
+      "properties": {
+        "Nombre": "Viva Le Glam Studio - Saavedra",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal",
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/5401EmA.jpg",
+        "URL Store": "https://agenddo.com/viva-le-glam-studio-saavedra",
+        "Barrio": "Saavedra",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4484379,
+          -34.5738182
+        ]
+      },
+      "properties": {
+        "Nombre": "YS Estética Integral",
+        "Rubro": [
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/akIkvl6.jpg",
+        "URL Store": "https://agenddo.com/ys-estetica-integral",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4326542,
+          -34.5701403
+        ]
+      },
+      "properties": {
+        "Nombre": "Zentara",
+        "Rubro": [
+          "Uñas",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/ou5B5aT.jpg",
+        "URL Store": "https://agenddo.com/zentara",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4306897,
+          -34.5908087
+        ]
+      },
+      "properties": {
+        "Nombre": "Piel Studio",
+        "Rubro": [
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/ghGrtb0.jpg",
+        "URL Store": "https://agenddo.com/piel-studio",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

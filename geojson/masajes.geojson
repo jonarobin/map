@@ -1,0 +1,279 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4607027,
+          -34.557933
+        ]
+      },
+      "properties": {
+        "Nombre": "ByH Estética",
+        "Rubro": [
+          "Uñas",
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/2S8KI74.jpg",
+        "URL Store": "https://agenddo.com/byh-estetica",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4332759,
+          -34.5772964
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Viso ",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/E6d8bP9.jpg",
+        "URL Store": "https://agenddo.com/estetica-viso",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4466365,
+          -34.6042849
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética y Masajes Bambú",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/LLrzF3K.jpg",
+        "URL Store": "https://agenddo.com/estetica-y-masajes-bambu",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4024806,
+          -34.5923115
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Barrio Norte",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4525725,
+          -34.5637565
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Belgrano",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4165459,
+          -34.5882928
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Palermo",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387007,
+          -34.596523
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Recoleta",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4166893,
+          -34.5858915
+        ]
+      },
+      "properties": {
+        "Nombre": "Julieta Beauty Studio",
+        "Rubro": [
+          "SkinCare",
+          "Masajes",
+          "EyeBeauty",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/aeUt9iP.jpg",
+        "URL Store": "https://agenddo.com/julieta-beauty-studio",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Marquesa Spa de Belleza",
+        "Rubro": [
+          "Uñas",
+          "SkinCare",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/BvcxuNY.jpg",
+        "URL Store": "https://agenddo.com/marquesa-spa-de-belleza",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4537673,
+          -34.5592758
+        ]
+      },
+      "properties": {
+        "Nombre": "New Studio Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación",
+          "Barbería",
+          "EyeBeauty",
+          "Masajes",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/4HyDX2a.jpg",
+        "URL Store": "https://agenddo.com/new-studio-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4392999,
+          -34.5987922
+        ]
+      },
+      "properties": {
+        "Nombre": "Spa & Estética CL",
+        "Rubro": [
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/Ey4b80b.jpg",
+        "URL Store": "https://agenddo.com/spa-&-estetica-cl",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4703827,
+          -34.5476164
+        ]
+      },
+      "properties": {
+        "Nombre": "Viva Le Glam Studio - Saavedra",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal",
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/5401EmA.jpg",
+        "URL Store": "https://agenddo.com/viva-le-glam-studio-saavedra",
+        "Barrio": "Saavedra",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4393878,
+          -34.5996988
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Momento Femenino",
+        "Rubro": [
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/29noCF7.jpg",
+        "URL Store": "https://agenddo.com/ambar-momento-femenino",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4617731,
+          -34.576046
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Belgrano",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/DFtMJsB.jpg",
+        "URL Store": "https://agenddo.com/ambar-spa-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4366211,
+          -34.5862006
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Palermo",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/DFtMJsB.jpg",
+        "URL Store": "https://agenddo.com/ambar-spa-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alcorta",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación",
+          "EyeBeauty",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-alcorta",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4104412,
+          -34.5880019
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alto Palermo",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-alto-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878626,
+          -34.5969608
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Barrio Norte",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4535856,
+          -34.5628647
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4878536,
+          -34.5464842
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Dot",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-dot",
+        "Barrio": "Saavedra",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4965717,
+          -34.4873188
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Martínez",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-Martínez",
+        "Barrio": "Martínez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3840901,
+          -34.5891244
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Patio Bullrich",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-patio-bullrich",
+        "Barrio": "Retiro",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4436416,
+          -34.6234374
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Caballito",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4555072,
+          -34.5654085
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Ciudad de La Paz",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-ciudad-de-la-paz",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4668095,
+          -34.5636735
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Freire",
+        "Rubro": [
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-freire",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4157334,
+          -34.5876024
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Julián Alvarez",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-julian-alvarez",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4346495,
+          -34.5655187
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Las Cañitas",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-las-cañitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6524757,
+          -34.4008097
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Nordelta",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-nordelta",
+        "Barrio": "Nordelta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7144787,
+          -34.3912372
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Villa Nueva",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-uñas-villa-nueva",
+        "Barrio": "Benavídez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4441116,
+          -34.5706309
+        ]
+      },
+      "properties": {
+        "Nombre": "Dèpilier",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/3xtm2MN.jpg",
+        "URL Store": "https://agenddo.com/depilier",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4168822,
+          -34.6186414
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Almagro",
+        "Rubro": "Depilación",
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-almagro",
+        "Barrio": "Almagro",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4527351,
+          -34.5629223
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Belgrano",
+        "Rubro": "Depilación",
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4089349,
+          -34.5808696
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Botánico",
+        "Rubro": "Depilación",
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-botánico",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4299801,
+          -34.6159962
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Caballito",
+        "Rubro": "Depilación",
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

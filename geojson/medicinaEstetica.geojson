@@ -1,0 +1,596 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4465178,
+          -34.5586595
+        ]
+      },
+      "properties": {
+        "Nombre": "Bodylife by Pampita",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/QJ8oyHl.jpg",
+        "URL Store": "https://agenddo.com/bodylife-by-pampita",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4441116,
+          -34.5706309
+        ]
+      },
+      "properties": {
+        "Nombre": "Dèpilier",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/3xtm2MN.jpg",
+        "URL Store": "https://agenddo.com/depilier",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4565994,
+          -34.5631856
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Belgrano",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4323395,
+          -34.625937
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Caballito",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5032134,
+          -34.8602544
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Canning",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-canning",
+        "Barrio": "Canning",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4924218,
+          -34.5921064
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Devoto",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-devoto",
+        "Barrio": "Devoto",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4032033,
+          -34.7655363
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Lomas de Zamora",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-lomas-de-zamora",
+        "Barrio": "Lomas de Zamora",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6520858,
+          -34.4014784
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Nordelta",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-nordelta",
+        "Barrio": "Nordelta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4594429,
+          -34.5453841
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Nuñez",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-nuñez",
+        "Barrio": "Núñez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4807985,
+          -34.5036863
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Olivos",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-olivos",
+        "Barrio": "Olivos",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6949654,
+          -34.6245091
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Parque Leloir",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-parque-leloir",
+        "Barrio": "Ituzaingó",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8975715,
+          -34.4470938
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Pilar",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-pilar",
+        "Barrio": "Pilar",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.363012,
+          -34.609528
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Puerto Madero",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-puerto-madero",
+        "Barrio": "Puerto Madero",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5642898,
+          -34.6464406
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Ramos Mejía",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-ramos-mejia",
+        "Barrio": "Ramos Mejía",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3899324,
+          -34.5885257
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Recoleta",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5458373,
+          -34.494542
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - San Isidro",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-san-isidro",
+        "Barrio": "San Isidro",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3895125,
+          -34.600098
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Tribunales",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-tribunales",
+        "Barrio": "Tribunales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4367726,
+          -34.6006757
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Villa Crespo",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-villa-crespo",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4801025,
+          -34.5663876
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Villa Urquiza",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-villa-urquiza",
+        "Barrio": "Villa Urquiza",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4330084,
+          -34.6160456
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita - Caballito",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/yp0zImq.jpg",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4842788,
+          -34.5786926
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita - Villa Urquiza",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/yp0zImq.jpg",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-villa-urquiza",
+        "Barrio": "Villa Urquiza",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4623595,
+          -34.5569114
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita Belgrano",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/yp0zImq.jpg",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4210487,
+          -34.5836834
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita Palermo",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/yp0zImq.jpg",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4314923,
+          -34.6200485
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Martínez - Caballito",
+        "Rubro": [
+          "Medicina Estética",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/EQyJ6iL.jpg",
+        "URL Store": "https://agenddo.com/estetica-Martínez-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4024806,
+          -34.5923115
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Barrio Norte",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4525725,
+          -34.5637565
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Belgrano",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4165459,
+          -34.5882928
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Palermo",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387007,
+          -34.596523
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Recoleta",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4100005,
+          -34.589287
+        ]
+      },
+      "properties": {
+        "Nombre": "Palermo Medicina Estética",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/9iwXeCC.jpg",
+        "URL Store": "https://agenddo.com/palermo-medicina-estetica",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

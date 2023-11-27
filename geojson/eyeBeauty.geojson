@@ -1,0 +1,1293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4617731,
+          -34.576046
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/ambar-spa-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4366211,
+          -34.5862006
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/ambar-spa-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4468662,
+          -34.5708852
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/andrea-beauty-studio-spa-de-uñas-cejas-y-pestañas",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación",
+          "EyeBeauty",
+          "Estética Corporal"
+        ],
+        "URL Store": "https://agenddo.com/cerini-alcorta",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4102608,
+          -34.5925829
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Bronceado"
+        ],
+        "URL Store": "https://agenddo.com/coco-buenos-aires-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4597567,
+          -34.5623167
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/coco-buenos-aires-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.441701,
+          -34.623173
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Uñas"
+        ],
+        "URL Store": "https://agenddo.com/coco-buenos-aires-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4363825,
+          -34.5675936
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/coco-buenos-aires-cañitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.409288,
+          -34.5812699
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/coco-buenos-aires-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.618922,
+          -34.4074064
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty",
+          "Uñas"
+        ],
+        "URL Store": "https://agenddo.com/coco-buenos-aires-(peluqueria-vanity-projects)-nordelta",
+        "Barrio": "Nordelta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3929064,
+          -34.7428121
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "SkinCare"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-banfield",
+        "Barrio": "Banfield",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4436416,
+          -34.6234374
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9165089,
+          -34.4520117
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-champagnat",
+        "Barrio": "Pilar",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4555072,
+          -34.5654085
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-ciudad-de-la-paz",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4654439,
+          -34.6302014
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-flores",
+        "Barrio": "Flores",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4157334,
+          -34.5876024
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-julian-alvarez",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4522668,
+          -34.5595947
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-juramento",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4346495,
+          -34.5655187
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-las-cañitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4896996,
+          -34.4830422
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-Martínez",
+        "Barrio": "Martínez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6524757,
+          -34.4008097
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-nordelta",
+        "Barrio": "Nordelta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4926897,
+          -34.5066853
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-olivos",
+        "Barrio": "Olivos",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6922995,
+          -34.6271305
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-parque-leloir",
+        "Barrio": "Ituzaingó",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6120808,
+          -34.4270376
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-remeros",
+        "Barrio": "Tigre",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4959461,
+          -34.6053725
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-villa-del-parque",
+        "Barrio": "Villa del Parque",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7144787,
+          -34.3912372
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-villa-nueva",
+        "Barrio": "Benavídez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/d-uñas-villa-urquiza",
+        "Barrio": "Villa Urquiza",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4292811,
+          -34.576802
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/estudio-laurette",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4085837,
+          -34.5825088
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "URL Store": "https://agenddo.com/frida-estetica-femenina",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4191127,
+          -34.5873681
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "EyeBeauty",
+          "Uñas"
+        ],
+        "URL Store": "https://agenddo.com/hair-experience-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4166893,
+          -34.5858915
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "SkinCare",
+          "Masajes",
+          "EyeBeauty",
+          "MakeUp"
+        ],
+        "URL Store": "https://agenddo.com/julieta-beauty-studio",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.437149,
+          -34.61736
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/llongueras-argentina-acoyte",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387876,
+          -34.595604
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/llongueras-argentina-av.-santa-fe",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4601283,
+          -34.5761109
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/llongueras-argentina-elcano",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3936255,
+          -34.5935694
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/llongueras-argentina-juncal",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4435391,
+          -34.6266725
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/llongueras-argentina-pedro-goyena",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4223924,
+          -34.5894989
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/miguel-ramirez-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4263642,
+          -34.5834347
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "EyeBeauty",
+          "Uñas",
+          "Peluquería"
+        ],
+        "URL Store": "https://agenddo.com/milena-marin-beauty-studio",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4537673,
+          -34.5592758
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación",
+          "Barbería",
+          "EyeBeauty",
+          "Masajes",
+          "MakeUp"
+        ],
+        "URL Store": "https://agenddo.com/new-studio-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4292942,
+          -34.6151627
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-almagro",
+        "Barrio": "Almagro",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4159837,
+          -34.6099575
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-almagro-ii",
+        "Barrio": "Almagro",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4614666,
+          -34.5649516
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-belgrano-1",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4561754,
+          -34.5544449
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-belgrano-2",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6554567,
+          -34.6386711
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-castelar",
+        "Barrio": "Castelar",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4524869,
+          -34.5825581
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-chacarita",
+        "Barrio": "Chacarita",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.459444,
+          -34.5727889
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-colegiales",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.401969,
+          -34.7643004
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-lomas-de-zamora",
+        "Barrio": "Lomas de Zamora",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.474943,
+          -34.581364
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-los-incas",
+        "Barrio": "Parque Chas",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.499254,
+          -34.4880025
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-Martínez",
+        "Barrio": "Martínez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4193421,
+          -34.5850764
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2613236,
+          -34.7185885
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-quilmes",
+        "Barrio": "Quilmes",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3957291,
+          -34.5899414
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5082868,
+          -34.4707732
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-san-isidro",
+        "Barrio": "San Isidro",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4391144,
+          -34.5986895
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-villa-crespo",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.488439,
+          -34.6034057
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-villa-del-parque",
+        "Barrio": "Villa del Parque",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5033487,
+          -34.6002407
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nifty-villa-devoto",
+        "Barrio": "Devoto",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4300033,
+          -34.5944893
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/quiero-mis-cejas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4492923,
+          -34.5753487
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/soylashista",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4579835,
+          -34.6039561
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "URL Store": "https://agenddo.com/spa-beauty-kd-angel's",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4461186,
+          -34.5753339
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/studio-angiep",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4639943,
+          -34.5544721
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/tara-glamour",
+        "Barrio": "Núñez",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4489975,
+          -34.5814341
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/the-brow-army-by-liz-sanchez",
+        "Barrio": "Chacarita",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4703827,
+          -34.5476164
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal",
+          "Bronceado"
+        ],
+        "URL Store": "https://agenddo.com/viva-le-glam-studio-saavedra",
+        "Barrio": "Saavedra",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4484379,
+          -34.5738182
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "URL Store": "https://agenddo.com/ys-estetica-integral",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4573576,
+          -34.5642992
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/yusebeauty-spa-de-miradas",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4458057,
+          -34.5898899
+        ]
+      },
+      "properties": {
+        "Rubro": [
+          "MakeUp",
+          "EyeBeauty"
+        ],
+        "URL Store": "https://agenddo.com/nicole-maquillando-studio",
+        "Barrio": "Chacarita",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

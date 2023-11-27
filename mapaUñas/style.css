@@ -1,0 +1,235 @@
+#map {
+  height: 100vh;
+  position: relative;
+  border: 1px solid #EBEBEB;
+  overflow: hidden;
+  display: block; /* Añade esta línea */
+}
+
+body, html, #parentElement, #map {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+
+@media (max-width: 450px) {
+  body, html, #parentElement, #map {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+  }}
+
+
+@media (max-width: 450px) {
+  #map {
+    width: 100%; /* Ocupa todo el ancho */
+    border-radius: 0; /* Elimina los bordes redondeados */
+    border :none;
+    border-top: 1px solid #EBEBEB;
+    margin-left: 0; /* Elimina el margen izquierdo */
+    margin-right: 0; /* Elimina el margen derecho */
+  }
+
+
+}
+
+/* Mueve el control de zoom del mapa más abajo */
+
+
+.custom-marker {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+}
+
+.marker-content {
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.marker-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  mask-image: radial-gradient(circle, white 100%, transparent 100%);
+  mask-composite: intersect;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.form-select,
+.search-bar input {
+  background-color: #ffffff;
+  border: 1px solid #EBEBEB;
+  border-radius: 30px;
+ color: #c2c2c2;
+  padding: 10px 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  
+
+  height: 30px;
+   /* Resto del código... */
+   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path fill='%23A9A9A9' d='M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+   background-position: 14px 12px; /* Posiciona el icono */
+   background-repeat: no-repeat; /* Evita que el icono se repita */
+   padding-left: 44px;
+}
+
+
+
+.search-bar input {
+  top: 32px; /* Ajusta este valor para mover la barra de búsqueda hacia arriba o hacia abajo */
+  left: 32px; 
+  right: 32px ;
+  position: absolute;
+  z-index: 1000; /* Asegúrate de que la barra de búsqueda esté por encima del mapa */
+  box-shadow: 0 2px 40px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
+
+}
+
+.form-select {
+  background-color: #ffffff;
+  border: 1px solid #EBEBEB;
+  border-radius: 16px;
+  padding: 10px 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+   /* Ajusta el ancho en escritorio */
+  margin-top: 10px;
+  margin-bottom: 21.56px;
+  margin-left: 23px;
+  margin-right: 16px;
+  appearance: none; 
+  height: 51px;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path fill='%23A9A9A9' d='M7.41 7.84L12 12.42l4.59-4.58L18 9.25l-6 6-6-6 1.41-1.41z'/><path fill='none' d='M0 0h24v24H0z'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right .75rem center;
+  background-size: 1.5em;
+  padding-right: 2.5rem;
+  display: none; /* oculta el filtro por rubro*/
+  /*17 Nov lo oculte para poder controlarlos rubros 
+  desde el geojson, duplico el mapa y le pongo 
+  distintas categorias con distintos geojson
+  y los llamo desde let geojson_url */
+}
+
+
+/* Estilos para el dropdown cuando se despliega */
+.form-select:focus,
+.form-select:active {
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+
+/* Estilos para las opciones del dropdown */
+.form-select option {
+  padding: 10px;
+}
+@media (max-width: 450px) {
+  .form-select {
+    margin-right: 3%;
+  }
+
+  .search-bar {
+    width: 100%; /* Ocupa todo el ancho */
+    padding: 0 24px; /* Añade un padding de 24px a ambos lados */
+    box-sizing: border-box; /* Asegura que el ancho incluya el padding */
+  }
+
+  .search-bar input {
+    margin: 0; /* Elimina el margen del input */
+    box-sizing: border-box; 
+    height: 50px;
+    margin-bottom: 24px;
+  
+    /* Asegura que el ancho incluya el padding y el borde */
+  }
+
+  .leaflet-control-zoom {
+    display: none !important;}
+
+
+
+  
+}
+
+
+
+
+.search-bar .search-icon {
+  position: absolute;
+  right: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  display: hidden;
+}
+
+.search-bar .search-icon i {
+  font-size: 0px;
+  background: none; /* Elimina el icono de la barra de búsqueda */
+  /* Resto del código... */
+  
+}
+
+.filter-container {
+  display: flex;
+  align-items: center;
+}
+
+
+
+.hidden {
+  display: none !important;
+}
+
+.search-bar input, .form-select {
+  /* Resto del código... */
+  font-family: 'Poppins', sans-serif;
+  color: #6A6A6A !important;
+  font-weight: 400;
+/* Ajusta este valor a 400 para Poppins Normal */
+}
+
+.leaflet-control-zoom a {
+  padding: 6px;
+  margin-bottom: 6px !important;
+
+}
+
+.leaflet-control-zoom-in, .leaflet-control-zoom-out{
+  border-radius: 24px !important;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1)!important;
+
+}
+
+.leaflet-bar{
+margin: 32px;
+
+border-color: transparent !important;
+}
+
+.leaflet-left, .leaflet-top{
+  margin: 32px;
+
+}
+.leaflet-control-zoom {
+  margin-top: 70px !important; /* Ajusta este valor para mover los controles de zoom hacia arriba o hacia abajo */
+}
+
+@media (max-width: 450px) {
+  .search-bar input {
+    top: 96px !important; /* Ajusta este valor para mover la barra de búsqueda hacia abajo */
+    /* Asegura que el ancho incluya el padding y el borde */
+  }
+}
