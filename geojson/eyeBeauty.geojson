@@ -11,6 +11,7 @@
         ]
       },
       "properties": {
+        "Nombre": "Ambar Spa - Belgrano",
         "Rubro": [
           "Uñas",
           "Depilación",
@@ -18,6 +19,7 @@
           "Estética Corporal",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/DFtMJsB.jpg",
         "URL Store": "https://agenddo.com/ambar-spa-belgrano",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
@@ -33,6 +35,7 @@
         ]
       },
       "properties": {
+        "Nombre": "Ambar Spa - Palermo",
         "Rubro": [
           "Uñas",
           "Depilación",
@@ -40,6 +43,7 @@
           "Estética Corporal",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/DFtMJsB.jpg",
         "URL Store": "https://agenddo.com/ambar-spa-palermo",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -55,10 +59,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Andrea Beauty Studio Spa de uñas, cejas y pestañas",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/fKDklwe.jpg",
         "URL Store": "https://agenddo.com/andrea-beauty-studio-spa-de-uñas-cejas-y-pestañas",
         "Barrio": "Colegiales",
         "Fecha": "26 de nov"
@@ -74,6 +80,7 @@
         ]
       },
       "properties": {
+        "Nombre": "Cerini - Alcorta",
         "Rubro": [
           "Peluquería",
           "Uñas",
@@ -82,6 +89,7 @@
           "EyeBeauty",
           "Estética Corporal"
         ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
         "URL Store": "https://agenddo.com/cerini-alcorta",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -97,11 +105,13 @@
         ]
       },
       "properties": {
+        "Nombre": "Coco Buenos Aires - Barrio Norte",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "Bronceado"
         ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
         "URL Store": "https://agenddo.com/coco-buenos-aires-barrio-norte",
         "Barrio": "Recoleta",
         "Fecha": "26 de nov"
@@ -117,10 +127,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Coco Buenos Aires - Belgrano",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
         "URL Store": "https://agenddo.com/coco-buenos-aires-belgrano",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
@@ -136,11 +148,13 @@
         ]
       },
       "properties": {
+        "Nombre": "Coco Buenos Aires - Caballito",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "Uñas"
         ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
         "URL Store": "https://agenddo.com/coco-buenos-aires-caballito",
         "Barrio": "Caballito",
         "Fecha": "26 de nov"
@@ -156,10 +170,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Coco Buenos Aires - Cañitas",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
         "URL Store": "https://agenddo.com/coco-buenos-aires-cañitas",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -175,10 +191,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Coco Buenos Aires - Palermo",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
         "URL Store": "https://agenddo.com/coco-buenos-aires-palermo",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -194,12 +212,14 @@
         ]
       },
       "properties": {
+        "Nombre": "Coco Buenos Aires (Peluquería Vanity Projects) - Nordelta",
         "Rubro": [
           "Peluquería",
           "Uñas",
           "EyeBeauty",
           "Uñas"
         ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
         "URL Store": "https://agenddo.com/coco-buenos-aires-(peluqueria-vanity-projects)-nordelta",
         "Barrio": "Nordelta",
         "Fecha": "26 de nov"
@@ -215,11 +235,13 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Banfield",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "SkinCare"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-banfield",
         "Barrio": "Banfield",
         "Fecha": "26 de nov"
@@ -235,11 +257,13 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Caballito",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "Depilación"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-caballito",
         "Barrio": "Caballito",
         "Fecha": "26 de nov"
@@ -255,10 +279,12 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Champagnat",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-champagnat",
         "Barrio": "Pilar",
         "Fecha": "26 de nov"
@@ -274,12 +300,14 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Ciudad de La Paz",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "Depilación",
           "SkinCare"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-ciudad-de-la-paz",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
@@ -295,10 +323,12 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Flores",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-flores",
         "Barrio": "Flores",
         "Fecha": "26 de nov"
@@ -314,6 +344,7 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Julián Alvarez",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
@@ -321,6 +352,7 @@
           "SkinCare",
           "Estética Corporal"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-julian-alvarez",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -336,10 +368,12 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Juramento",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-juramento",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
@@ -355,12 +389,14 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Las Cañitas",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "Depilación",
           "SkinCare"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-las-cañitas",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -376,10 +412,12 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Martínez",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-Martínez",
         "Barrio": "Martínez",
         "Fecha": "26 de nov"
@@ -395,11 +433,13 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Nordelta",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "Depilación"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-nordelta",
         "Barrio": "Nordelta",
         "Fecha": "26 de nov"
@@ -415,12 +455,14 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Olivos",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "SkinCare",
           "Estética Corporal"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-olivos",
         "Barrio": "Olivos",
         "Fecha": "26 de nov"
@@ -436,12 +478,14 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Parque Leloir",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "SkinCare",
           "Estética Corporal"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-parque-leloir",
         "Barrio": "Ituzaingó",
         "Fecha": "26 de nov"
@@ -457,10 +501,12 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Remeros",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-remeros",
         "Barrio": "Tigre",
         "Fecha": "26 de nov"
@@ -476,10 +522,12 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Villa del Parque",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-villa-del-parque",
         "Barrio": "Villa del Parque",
         "Fecha": "26 de nov"
@@ -495,12 +543,14 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Villa Nueva",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "Depilación",
           "SkinCare"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-villa-nueva",
         "Barrio": "Benavídez",
         "Fecha": "26 de nov"
@@ -516,10 +566,12 @@
         ]
       },
       "properties": {
+        "Nombre": "d-uñas - Villa Urquiza",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
         "URL Store": "https://agenddo.com/d-uñas-villa-urquiza",
         "Barrio": "Villa Urquiza",
         "Fecha": "26 de nov"
@@ -535,10 +587,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Estudio Laurette",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/QeVZrke.jpg",
         "URL Store": "https://agenddo.com/estudio-laurette",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -554,11 +608,13 @@
         ]
       },
       "properties": {
+        "Nombre": "Frida Estética Femenina",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "Depilación"
         ],
+        "Foto": "https://i.imgur.com/sxdPw99.jpg",
         "URL Store": "https://agenddo.com/frida-estetica-femenina",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -574,11 +630,13 @@
         ]
       },
       "properties": {
+        "Nombre": "Hair Experience Peluquería",
         "Rubro": [
           "Peluquería",
           "EyeBeauty",
           "Uñas"
         ],
+        "Foto": "https://i.imgur.com/jGIVsRK.jpg",
         "URL Store": "https://agenddo.com/hair-experience-peluqueria",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -594,12 +652,14 @@
         ]
       },
       "properties": {
+        "Nombre": "Julieta Beauty Studio",
         "Rubro": [
           "SkinCare",
           "Masajes",
           "EyeBeauty",
           "MakeUp"
         ],
+        "Foto": "https://i.imgur.com/aeUt9iP.jpg",
         "URL Store": "https://agenddo.com/julieta-beauty-studio",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -615,11 +675,13 @@
         ]
       },
       "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Acoyte",
         "Rubro": [
           "Peluquería",
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
         "URL Store": "https://agenddo.com/llongueras-argentina-acoyte",
         "Barrio": "Caballito",
         "Fecha": "26 de nov"
@@ -635,11 +697,13 @@
         ]
       },
       "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Av. Santa Fe",
         "Rubro": [
           "Peluquería",
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
         "URL Store": "https://agenddo.com/llongueras-argentina-av.-santa-fe",
         "Barrio": "Recoleta",
         "Fecha": "26 de nov"
@@ -655,11 +719,13 @@
         ]
       },
       "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Elcano",
         "Rubro": [
           "Peluquería",
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
         "URL Store": "https://agenddo.com/llongueras-argentina-elcano",
         "Barrio": "Colegiales",
         "Fecha": "26 de nov"
@@ -675,11 +741,13 @@
         ]
       },
       "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Juncal",
         "Rubro": [
           "Peluquería",
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
         "URL Store": "https://agenddo.com/llongueras-argentina-juncal",
         "Barrio": "Recoleta",
         "Fecha": "26 de nov"
@@ -695,11 +763,13 @@
         ]
       },
       "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Pedro Goyena",
         "Rubro": [
           "Peluquería",
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
         "URL Store": "https://agenddo.com/llongueras-argentina-pedro-goyena",
         "Barrio": "Caballito",
         "Fecha": "26 de nov"
@@ -715,11 +785,13 @@
         ]
       },
       "properties": {
+        "Nombre": "Miguel Ramirez Peluqueria",
         "Rubro": [
           "Peluquería",
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/Z9mYTMm.jpg",
         "URL Store": "https://agenddo.com/miguel-ramirez-peluqueria",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -735,11 +807,13 @@
         ]
       },
       "properties": {
+        "Nombre": "Milena Marin Beauty Studio",
         "Rubro": [
           "EyeBeauty",
           "Uñas",
           "Peluquería"
         ],
+        "Foto": "https://i.imgur.com/bzucemR.jpg",
         "URL Store": "https://agenddo.com/milena-marin-beauty-studio",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -755,6 +829,7 @@
         ]
       },
       "properties": {
+        "Nombre": "New Studio Belgrano",
         "Rubro": [
           "Peluquería",
           "Uñas",
@@ -764,6 +839,7 @@
           "Masajes",
           "MakeUp"
         ],
+        "Foto": "https://i.imgur.com/4HyDX2a.jpg",
         "URL Store": "https://agenddo.com/new-studio-belgrano",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
@@ -779,10 +855,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Almagro",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-almagro",
         "Barrio": "Almagro",
         "Fecha": "26 de nov"
@@ -798,10 +876,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Almagro II",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-almagro-ii",
         "Barrio": "Almagro",
         "Fecha": "26 de nov"
@@ -817,10 +897,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Belgrano 1",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-belgrano-1",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
@@ -836,10 +918,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Belgrano 2",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-belgrano-2",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
@@ -855,10 +939,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Castelar",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-castelar",
         "Barrio": "Castelar",
         "Fecha": "26 de nov"
@@ -874,10 +960,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Chacarita",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-chacarita",
         "Barrio": "Chacarita",
         "Fecha": "26 de nov"
@@ -893,10 +981,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Colegiales",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-colegiales",
         "Barrio": "Colegiales",
         "Fecha": "26 de nov"
@@ -912,10 +1002,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Lomas de Zamora",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-lomas-de-zamora",
         "Barrio": "Lomas de Zamora",
         "Fecha": "26 de nov"
@@ -931,10 +1023,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Los Incas",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-los-incas",
         "Barrio": "Parque Chas",
         "Fecha": "26 de nov"
@@ -950,10 +1044,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Martínez",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-Martínez",
         "Barrio": "Martínez",
         "Fecha": "26 de nov"
@@ -969,10 +1065,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Palermo",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-palermo",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -988,10 +1086,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Quilmes",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-quilmes",
         "Barrio": "Quilmes",
         "Fecha": "26 de nov"
@@ -1007,10 +1107,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Recoleta",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-recoleta",
         "Barrio": "Recoleta",
         "Fecha": "26 de nov"
@@ -1026,10 +1128,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - San Isidro",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-san-isidro",
         "Barrio": "San Isidro",
         "Fecha": "26 de nov"
@@ -1045,10 +1149,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Villa Crespo",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-villa-crespo",
         "Barrio": "Villa Crespo",
         "Fecha": "26 de nov"
@@ -1064,10 +1170,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Villa del Parque",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-villa-del-parque",
         "Barrio": "Villa del Parque",
         "Fecha": "26 de nov"
@@ -1083,10 +1191,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nifty - Villa Devoto",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
         "URL Store": "https://agenddo.com/nifty-villa-devoto",
         "Barrio": "Devoto",
         "Fecha": "26 de nov"
@@ -1102,9 +1212,11 @@
         ]
       },
       "properties": {
+        "Nombre": "Quiero Mis Cejas",
         "Rubro": [
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/RUwHIbl.jpg",
         "URL Store": "https://agenddo.com/quiero-mis-cejas",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
@@ -1120,6 +1232,7 @@
         ]
       },
       "properties": {
+        "Nombre": "Soylashista",
         "Rubro": [
           "Uñas",
           "Depilación",
@@ -1127,6 +1240,7 @@
           "Estética Corporal",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/az47UXD.jpg",
         "URL Store": "https://agenddo.com/soylashista",
         "Barrio": "Colegiales",
         "Fecha": "26 de nov"
@@ -1142,12 +1256,14 @@
         ]
       },
       "properties": {
+        "Nombre": "Spa Beauty Kd Angel's",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
           "Depilación",
           "SkinCare"
         ],
+        "Foto": "https://i.imgur.com/6aQdzt0.jpg",
         "URL Store": "https://agenddo.com/spa-beauty-kd-angel's",
         "Barrio": "Villa Crespo",
         "Fecha": "26 de nov"
@@ -1163,10 +1279,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Studio AngieP",
         "Rubro": [
           "Uñas",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/atceV0k.jpg",
         "URL Store": "https://agenddo.com/studio-angiep",
         "Barrio": "Colegiales",
         "Fecha": "26 de nov"
@@ -1182,9 +1300,11 @@
         ]
       },
       "properties": {
+        "Nombre": "Tara Glamour",
         "Rubro": [
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/1ddow6H.jpg",
         "URL Store": "https://agenddo.com/tara-glamour",
         "Barrio": "Núñez",
         "Fecha": "26 de nov"
@@ -1200,9 +1320,11 @@
         ]
       },
       "properties": {
+        "Nombre": "The Brow Army by Liz Sanchez",
         "Rubro": [
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/9Tl5O8J.jpg",
         "URL Store": "https://agenddo.com/the-brow-army-by-liz-sanchez",
         "Barrio": "Chacarita",
         "Fecha": "26 de nov"
@@ -1218,6 +1340,7 @@
         ]
       },
       "properties": {
+        "Nombre": "Viva Le Glam Studio - Saavedra",
         "Rubro": [
           "Uñas",
           "EyeBeauty",
@@ -1227,6 +1350,7 @@
           "Estética Corporal",
           "Bronceado"
         ],
+        "Foto": "https://i.imgur.com/5401EmA.jpg",
         "URL Store": "https://agenddo.com/viva-le-glam-studio-saavedra",
         "Barrio": "Saavedra",
         "Fecha": "26 de nov"
@@ -1242,11 +1366,13 @@
         ]
       },
       "properties": {
+        "Nombre": "YS Estética Integral",
         "Rubro": [
           "EyeBeauty",
           "SkinCare",
           "Estética Corporal"
         ],
+        "Foto": "https://i.imgur.com/akIkvl6.jpg",
         "URL Store": "https://agenddo.com/ys-estetica-integral",
         "Barrio": "Colegiales",
         "Fecha": "26 de nov"
@@ -1262,9 +1388,11 @@
         ]
       },
       "properties": {
+        "Nombre": "YuseBeauty Spa de miradas",
         "Rubro": [
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/yq80T52.jpg",
         "URL Store": "https://agenddo.com/yusebeauty-spa-de-miradas",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
@@ -1280,10 +1408,12 @@
         ]
       },
       "properties": {
+        "Nombre": "Nicole Maquillando Studio",
         "Rubro": [
           "MakeUp",
           "EyeBeauty"
         ],
+        "Foto": "https://i.imgur.com/3xoTDVZ.jpg",
         "URL Store": "https://agenddo.com/nicole-maquillando-studio",
         "Barrio": "Chacarita",
         "Fecha": "26 de nov"
