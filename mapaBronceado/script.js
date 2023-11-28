@@ -12,7 +12,7 @@ let geojson_url = "https://raw.githubusercontent.com/jonarobin/map/main/geojson/
 let markersLayer;
 let allCategories = [];
 
-fetch(geojsonUrl)
+fetch(geojson_url)
     .then(res => res.json())
     .then(data => {
         markersLayer = L.geoJson(data, {
