@@ -6,7 +6,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r
     maxZoom: 20,
     ext: 'png'
 }).addTo(map);
-let geojson_url = "https://raw.githubusercontent.com/jonarobin/map/main/geojson/u%C3%B1as.geojson"
+let geojson_url = "https://raw.githubusercontent.com/jonarobin/map/main/geojson/unas.geojson"
 
 let markersLayer;
 let allCategories = [];
