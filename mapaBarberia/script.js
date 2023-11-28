@@ -7,12 +7,12 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r
     ext: 'png'
 }).addTo(map);
 
-let geojson_url = "https://raw.githubusercontent.com/jonarobin/map/main/geojson/barberia.geojson";
+let geojsonUrl = "https://raw.githubusercontent.com/jonarobin/map/main/geojson/barberia.geojson";
 
 let markersLayer;
 let allCategories = [];
 
-fetch(geojson_url)
+fetch(geojsonUrl)
     .then(res => res.json())
     .then(data => {
         markersLayer = L.geoJson(data, {
@@ -30,7 +30,7 @@ fetch(geojson_url)
             },
             onEachFeature: function (feature, layer) {
                 layer.on('click', function () {
-                    // Abre la URL en la misma pestaña
+                    // Abre la URL en la misma pestaña desde el iframe
                     window.open(feature.properties['URL Store'], '_top');
                 });
             }
