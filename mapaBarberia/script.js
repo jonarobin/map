@@ -30,8 +30,8 @@ fetch(geojson_url)
             },
             onEachFeature: function (feature, layer) {
                 layer.on('click', function () {
-                    // Modifica esta línea para redirigir a la URL en la misma pestaña
-                    window.location.href = feature.properties['URL Store'];
+                    // Abre la URL en la misma pestaña
+                    window.open(feature.properties['URL Store'], '_top');
                 });
             }
         });
