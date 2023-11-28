@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r
     ext: 'png'
 }).addTo(map);
 
-let geojsonUrl = "https://github.com/jonarobin/map/edit/main/mapaDepilacion/script.js";
+let geojsonUrl = "https://raw.githubusercontent.com/jonarobin/map/main/geojson/depilacion.geojson";
 
 let markersLayer;
 let allCategories = [];
