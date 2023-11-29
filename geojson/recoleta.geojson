@@ -1,0 +1,382 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878626,
+          -34.5969608
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Barrio Norte",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4102608,
+          -34.5925829
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Barrio Norte",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3971121,
+          -34.5989369
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Facultades",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-facultades",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3964729,
+          -34.5872879
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Recoleta",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3899324,
+          -34.5885257
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Recoleta",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4024806,
+          -34.5923115
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Barrio Norte",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387007,
+          -34.596523
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Recoleta",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387876,
+          -34.595604
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Av. Santa Fe",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
+        "URL Store": "https://agenddo.com/llongueras-argentina-av.-santa-fe",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3936255,
+          -34.5935694
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Juncal",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
+        "URL Store": "https://agenddo.com/llongueras-argentina-juncal",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.398725,
+          -34.5955159
+        ]
+      },
+      "properties": {
+        "Nombre": "M Studio",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/yYRvAsN.jpg",
+        "URL Store": "https://agenddo.com/m-studio",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3931305,
+          -34.5956893
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Recoleta",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3957291,
+          -34.5899414
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Recoleta",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
+        "URL Store": "https://agenddo.com/nifty-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3945124,
+          -34.5894785
+        ]
+      },
+      "properties": {
+        "Nombre": "Sanders",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/CFJIwVK.jpg",
+        "URL Store": "https://agenddo.com/sanders",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878396,
+          -34.5972835
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Barrio Norte",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-barrio-norte",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3883938,
+          -34.5887708
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Recoleta",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4063942,
+          -34.5893787
+        ]
+      },
+      "properties": {
+        "Nombre": "Verdini Peluquería - Recoleta",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/bKiH8V6.jpg",
+        "URL Store": "https://agenddo.com/verdini-peluqueria-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3840578,
+          -34.5958018
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Recoleta",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-recoleta",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3927049,
+          -34.5906455
+        ]
+      },
+      "properties": {
+        "Nombre": "Minerva Beauty Bar",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/GqYKY5b.jpg",
+        "URL Store": "https://agenddo.com/minerva-beauty-bar",
+        "Barrio": "Recoleta",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

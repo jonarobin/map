@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4468662,
+          -34.5708852
+        ]
+      },
+      "properties": {
+        "Nombre": "Andrea Beauty Studio Spa de uñas, cejas y pestañas",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/fKDklwe.jpg",
+        "URL Store": "https://agenddo.com/andrea-beauty-studio-spa-de-unas-cejas-y-pestanas",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4500642,
+          -34.5677757
+        ]
+      },
+      "properties": {
+        "Nombre": "Balboa",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/RO6RwJ6.jpg",
+        "URL Store": "https://agenddo.com/balboa",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4550149,
+          -34.570593
+        ]
+      },
+      "properties": {
+        "Nombre": "Leo Usach Hair & Makeup Lab",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/UUpf69c.jpg",
+        "URL Store": "https://agenddo.com/leo-usach-hair-&-makeup-lab",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4601283,
+          -34.5761109
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Elcano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
+        "URL Store": "https://agenddo.com/llongueras-argentina-elcano",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.459444,
+          -34.5727889
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Colegiales",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
+        "URL Store": "https://agenddo.com/nifty-colegiales",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4501816,
+          -34.5789325
+        ]
+      },
+      "properties": {
+        "Nombre": "Santino - Colegiales",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/zUjP8hz.jpg",
+        "URL Store": "https://agenddo.com/santino-colegiales",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4602672,
+          -34.5768076
+        ]
+      },
+      "properties": {
+        "Nombre": "Sarkirian",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/uiEA8SB.jpg",
+        "URL Store": "https://agenddo.com/sarkirian",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.460337,
+          -34.5741062
+        ]
+      },
+      "properties": {
+        "Nombre": "sergio.delriocanosa",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/ePooscE.jpg",
+        "URL Store": "https://agenddo.com/sergio-delriocanosa",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4492923,
+          -34.5753487
+        ]
+      },
+      "properties": {
+        "Nombre": "Soylashista",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/az47UXD.jpg",
+        "URL Store": "https://agenddo.com/soylashista",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4461186,
+          -34.5753339
+        ]
+      },
+      "properties": {
+        "Nombre": "Studio AngieP",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/atceV0k.jpg",
+        "URL Store": "https://agenddo.com/studio-angiep",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4484379,
+          -34.5738182
+        ]
+      },
+      "properties": {
+        "Nombre": "YS Estética Integral",
+        "Rubro": [
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/akIkvl6.jpg",
+        "URL Store": "https://agenddo.com/ys-estetica-integral",
+        "Barrio": "Colegiales",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

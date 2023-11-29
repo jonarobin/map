@@ -1,0 +1,578 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4622317,
+          -34.5571626
+        ]
+      },
+      "properties": {
+        "Nombre": "Abinadab_Uñas",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/7792qOy.jpg",
+        "URL Store": "https://agenddo.com/abinadab-unas",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4617731,
+          -34.576046
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Belgrano",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/DFtMJsB.jpg",
+        "URL Store": "https://agenddo.com/ambar-spa-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4465178,
+          -34.5586595
+        ]
+      },
+      "properties": {
+        "Nombre": "Bodylife by Pampita",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/QJ8oyHl.jpg",
+        "URL Store": "https://agenddo.com/bodylife-by-pampita",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4607027,
+          -34.557933
+        ]
+      },
+      "properties": {
+        "Nombre": "ByH Estética",
+        "Rubro": [
+          "Uñas",
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/2S8KI74.jpg",
+        "URL Store": "https://agenddo.com/byh-estetica",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4535856,
+          -34.5628647
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4597567,
+          -34.5623167
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Belgrano",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4555072,
+          -34.5654085
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Ciudad de La Paz",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-unas-ciudad-de-la-paz",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4668095,
+          -34.5636735
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Freire",
+        "Rubro": [
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-unas-freire",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4522668,
+          -34.5595947
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Juramento",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-unas-juramento",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4527351,
+          -34.5629223
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Belgrano",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4565994,
+          -34.5631856
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Belgrano",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4623595,
+          -34.5569114
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita Belgrano",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/yp0zImq.jpg",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.461854,
+          -34.5557897
+        ]
+      },
+      "properties": {
+        "Nombre": "GEA ESTÉTICA Y SALUD",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/rjQeBDu.jpg",
+        "URL Store": "https://agenddo.com/gea-estetica-y-salud",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4525725,
+          -34.5637565
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Belgrano",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4572796,
+          -34.5597862
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Belgrano",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4537673,
+          -34.5592758
+        ]
+      },
+      "properties": {
+        "Nombre": "New Studio Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación",
+          "Barbería",
+          "EyeBeauty",
+          "Masajes",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/4HyDX2a.jpg",
+        "URL Store": "https://agenddo.com/new-studio-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4614666,
+          -34.5649516
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Belgrano 1",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
+        "URL Store": "https://agenddo.com/nifty-belgrano-1",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4561754,
+          -34.5544449
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Belgrano 2",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
+        "URL Store": "https://agenddo.com/nifty-belgrano-2",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4544578,
+          -34.5674491
+        ]
+      },
+      "properties": {
+        "Nombre": "Nuevo Módulo 2",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/pnL3CMr.jpg",
+        "URL Store": "https://agenddo.com/nuevo-modulo-2",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4594581,
+          -34.560122
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería y Barbería Montesco",
+        "Rubro": [
+          "Barbería",
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/9HhXInH.jpg",
+        "URL Store": "https://agenddo.com/peluqueria-y-barberia-montesco",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4601034,
+          -34.5656962
+        ]
+      },
+      "properties": {
+        "Nombre": "Prana Peluquería De Diseño - Crámer",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/9UcBPbR.jpg",
+        "URL Store": "https://agenddo.com/prana-peluqueria-de-diseno-cramer",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4612317,
+          -34.5589608
+        ]
+      },
+      "properties": {
+        "Nombre": "Sakura Beauty Salon",
+        "Rubro": [
+          "Cejas",
+          "Pestañas"
+        ],
+        "Foto": "https://i.imgur.com/UEWCXsU.jpg",
+        "URL Store": "https://agenddo.com/sakura-beauty-salon",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4503234,
+          -34.5501163
+        ]
+      },
+      "properties": {
+        "Nombre": "Shining - Belleza Saludable",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/hHx1980.jpg",
+        "URL Store": "https://agenddo.com/shining-belleza-saludable",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.458205,
+          -34.5716332
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4376843,
+          -34.567625
+        ]
+      },
+      "properties": {
+        "Nombre": "Vāltik - El Solar Shopping",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/hVLQtf4.jpg",
+        "URL Store": "https://agenddo.com/valtik-el-solar-shopping",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4531429,
+          -34.5623696
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Belgrano",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-belgrano",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4573576,
+          -34.5642992
+        ]
+      },
+      "properties": {
+        "Nombre": "YuseBeauty Spa de miradas",
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/yq80T52.jpg",
+        "URL Store": "https://agenddo.com/yusebeauty-spa-de-miradas",
+        "Barrio": "Belgrano",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

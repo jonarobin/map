@@ -1,0 +1,337 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.441701,
+          -34.623173
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Caballito",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4436416,
+          -34.6234374
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Caballito",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-unas-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4299801,
+          -34.6159962
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Caballito",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4323395,
+          -34.625937
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Caballito",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4330084,
+          -34.6160456
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita - Caballito",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/yp0zImq.jpg",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4314923,
+          -34.6200485
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Martínez - Caballito",
+        "Rubro": [
+          "Medicina Estética",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/EQyJ6iL.jpg",
+        "URL Store": "https://agenddo.com/estetica-Martínez-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4402579,
+          -34.6227128
+        ]
+      },
+      "properties": {
+        "Nombre": "Gallito & Cia - Peluqueria Infantil - Caballito",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/Np60LqS.jpg",
+        "URL Store": "https://agenddo.com/gallito-&-cia-peluqueria-infantil-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.437149,
+          -34.61736
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Acoyte",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
+        "URL Store": "https://agenddo.com/llongueras-argentina-acoyte",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4435391,
+          -34.6266725
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Pedro Goyena",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/GH4NnE4.jpg",
+        "URL Store": "https://agenddo.com/llongueras-argentina-pedro-goyena",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4419817,
+          -34.620575
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Caballito",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4304982,
+          -34.6171287
+        ]
+      },
+      "properties": {
+        "Nombre": "Roho Hair Boutique - Caballito",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/fQAcA3w.jpg",
+        "URL Store": "https://agenddo.com/roho-hair-boutique-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4533751,
+          -34.6140272
+        ]
+      },
+      "properties": {
+        "Nombre": "Tan & Go",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/IzW34tX.jpg",
+        "URL Store": "https://agenddo.com/tan-&-go",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4290956,
+          -34.6255402
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Caballito",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4558155,
+          -34.6122955
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Plaza Irlanda",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-plaza-irlanda",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4369776,
+          -34.6179592
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Caballito",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-caballito",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.441943,
+          -34.608423
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Centenario",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-centenario",
+        "Barrio": "Caballito",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

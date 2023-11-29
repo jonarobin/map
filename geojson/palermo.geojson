@@ -1,0 +1,1246 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4366211,
+          -34.5862006
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Palermo",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/DFtMJsB.jpg",
+        "URL Store": "https://agenddo.com/ambar-spa-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alcorta",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación",
+          "EyeBeauty",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-alcorta",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4104412,
+          -34.5880019
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alto Palermo",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/cxNzbhR.jpg",
+        "URL Store": "https://agenddo.com/cerini-alto-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4363825,
+          -34.5675936
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Cañitas",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-canitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.409288,
+          -34.5812699
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Palermo",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/d9ra2hI.jpg",
+        "URL Store": "https://agenddo.com/coco-buenos-aires-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4365757,
+          -34.5794901
+        ]
+      },
+      "properties": {
+        "Nombre": "Cristian Rey",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/mTMUaHE.jpg",
+        "URL Store": "https://agenddo.com/cristian-rey",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4157334,
+          -34.5876024
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Julián Alvarez",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-unas-julian-alvarez",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4346495,
+          -34.5655187
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Las Cañitas",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/466CgJl.jpg",
+        "URL Store": "https://agenddo.com/d-unas-las-canitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4441116,
+          -34.5706309
+        ]
+      },
+      "properties": {
+        "Nombre": "Dèpilier",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/3xtm2MN.jpg",
+        "URL Store": "https://agenddo.com/depilier",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4089349,
+          -34.5808696
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Botánico",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-botánico",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.439115,
+          -34.5649362
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Cañitas",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-canitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.412382,
+          -34.591933
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Palermo",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4269888,
+          -34.5905637
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Soho",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-soho",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4257849,
+          -34.5802867
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética BE ",
+        "Rubro": [
+          "Estética Corporal",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/AceVzQF.jpg",
+        "URL Store": "https://agenddo.com/estetica-be",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4210487,
+          -34.5836834
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita Palermo",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/yp0zImq.jpg",
+        "URL Store": "https://agenddo.com/estetica-bella-vita-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4332759,
+          -34.5772964
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Viso ",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/E6d8bP9.jpg",
+        "URL Store": "https://agenddo.com/estetica-viso",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4292811,
+          -34.576802
+        ]
+      },
+      "properties": {
+        "Nombre": "Estudio Laurette",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/QeVZrke.jpg",
+        "URL Store": "https://agenddo.com/estudio-laurette",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4085837,
+          -34.5825088
+        ]
+      },
+      "properties": {
+        "Nombre": "Frida Estética Femenina",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/sxdPw99.jpg",
+        "URL Store": "https://agenddo.com/frida-estetica-femenina",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4346407,
+          -34.5806306
+        ]
+      },
+      "properties": {
+        "Nombre": "Gallito & Cia - Peluqueria Infantil - Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/Np60LqS.jpg",
+        "URL Store": "https://agenddo.com/gallito-&-cia-peluqueria-infantil-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44089,
+          -34.5639456
+        ]
+      },
+      "properties": {
+        "Nombre": "Glow Peluqueria - Cañitas",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/C0EyMW7.jpg",
+        "URL Store": "https://agenddo.com/glow-peluqueria-canitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4186065,
+          -34.5912322
+        ]
+      },
+      "properties": {
+        "Nombre": "Grismi Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/E8mMISD.jpg",
+        "URL Store": "https://agenddo.com/grismi-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4191127,
+          -34.5873681
+        ]
+      },
+      "properties": {
+        "Nombre": "Hair Experience Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "EyeBeauty",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/jGIVsRK.jpg",
+        "URL Store": "https://agenddo.com/hair-experience-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4348862,
+          -34.568322
+        ]
+      },
+      "properties": {
+        "Nombre": "Hawai Solarium",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/iKgYovq.jpg",
+        "URL Store": "https://agenddo.com/hawai-solarium",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4165459,
+          -34.5882928
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Palermo",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/8oDMevA.jpg",
+        "URL Store": "https://agenddo.com/iobella-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4158311,
+          -34.5864724
+        ]
+      },
+      "properties": {
+        "Nombre": "Jessicaleo Peluquerías",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/wofNM0Z.jpg",
+        "URL Store": "https://agenddo.com/jessicaleo-peluquerias",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4338254,
+          -34.5883425
+        ]
+      },
+      "properties": {
+        "Nombre": "JOSHA peluquería",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/mNQdVJC.jpg",
+        "URL Store": "https://agenddo.com/josha-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4166893,
+          -34.5858915
+        ]
+      },
+      "properties": {
+        "Nombre": "Julieta Beauty Studio",
+        "Rubro": [
+          "SkinCare",
+          "Masajes",
+          "EyeBeauty",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/aeUt9iP.jpg",
+        "URL Store": "https://agenddo.com/julieta-beauty-studio",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4320244,
+          -34.5912456
+        ]
+      },
+      "properties": {
+        "Nombre": "La Maison Belleza",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/x0FtWPl.jpg",
+        "URL Store": "https://agenddo.com/la-maison-belleza",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4303218,
+          -34.5713329
+        ]
+      },
+      "properties": {
+        "Nombre": "Loly Peluquería & Estética",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/Qe6jxjy.jpg",
+        "URL Store": "https://agenddo.com/loly-peluqueria-&-estetica",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4322035,
+          -34.571427
+        ]
+      },
+      "properties": {
+        "Nombre": "Luxury Bronze",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/Mao3MLE.jpg",
+        "URL Store": "https://agenddo.com/luxury-bronze-canitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4334946,
+          -34.5877428
+        ]
+      },
+      "properties": {
+        "Nombre": "Maidana Peluqueria",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/7RKmO4y.jpg",
+        "URL Store": "https://agenddo.com/maidana-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4149952,
+          -34.5956906
+        ]
+      },
+      "properties": {
+        "Nombre": "MALA Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/EjXiJiC.jpg",
+        "URL Store": "https://agenddo.com/mala-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Marquesa Spa de Belleza",
+        "Rubro": [
+          "Uñas",
+          "SkinCare",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/BvcxuNY.jpg",
+        "URL Store": "https://agenddo.com/marquesa-spa-de-belleza",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.414421,
+          -34.589771
+        ]
+      },
+      "properties": {
+        "Nombre": "Matias Rivara Peluqueria",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/8nI4lel.jpg",
+        "URL Store": "https://agenddo.com/matias-rivara-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4223924,
+          -34.5894989
+        ]
+      },
+      "properties": {
+        "Nombre": "Miguel Ramirez Peluqueria",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/Z9mYTMm.jpg",
+        "URL Store": "https://agenddo.com/miguel-ramirez-peluqueria",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4263642,
+          -34.5834347
+        ]
+      },
+      "properties": {
+        "Nombre": "Milena Marin Beauty Studio",
+        "Rubro": [
+          "EyeBeauty",
+          "Uñas",
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/bzucemR.jpg",
+        "URL Store": "https://agenddo.com/milena-marin-beauty-studio",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4260078,
+          -34.5847907
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Palermo",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/3pk0MKO.jpg",
+        "URL Store": "https://agenddo.com/natural-bronze-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4389523,
+          -34.5846064
+        ]
+      },
+      "properties": {
+        "Nombre": "New Life Dermoestética",
+        "Rubro": [
+          "Depilación",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/FwH6P3k.jpg",
+        "URL Store": "https://agenddo.com/new-life-dermoestetica",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4193421,
+          -34.5850764
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Palermo",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
+        "URL Store": "https://agenddo.com/nifty-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.422006,
+          -34.5826511
+        ]
+      },
+      "properties": {
+        "Nombre": "Only Esthetic",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/RGV9NEl.jpg",
+        "URL Store": "https://agenddo.com/only-esthetic",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4100005,
+          -34.589287
+        ]
+      },
+      "properties": {
+        "Nombre": "Palermo Medicina Estética",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/9iwXeCC.jpg",
+        "URL Store": "https://agenddo.com/palermo-medicina-estetica",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4351488,
+          -34.5828586
+        ]
+      },
+      "properties": {
+        "Nombre": "Pelo’s House",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/8kLD76s.jpg",
+        "URL Store": "https://agenddo.com/pelo’s-house",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4377306,
+          -34.5834542
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería Filo",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/ykntjWf.jpg",
+        "URL Store": "https://agenddo.com/peluqueria-filo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4189185,
+          -34.5891022
+        ]
+      },
+      "properties": {
+        "Nombre": "Prana Peluquería De Diseño - Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/9UcBPbR.jpg",
+        "URL Store": "https://agenddo.com/prana-peluqueria-de-diseno-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4396787,
+          -34.5770735
+        ]
+      },
+      "properties": {
+        "Nombre": "Puro Glamour",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/J3V9rCw.jpg",
+        "URL Store": "https://agenddo.com/puro-glamour",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4300033,
+          -34.5944893
+        ]
+      },
+      "properties": {
+        "Nombre": "Quiero Mis Cejas",
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/RUwHIbl.jpg",
+        "URL Store": "https://agenddo.com/quiero-mis-cejas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.442893,
+          -34.5787433
+        ]
+      },
+      "properties": {
+        "Nombre": "Roho Hair Boutique - Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/fQAcA3w.jpg",
+        "URL Store": "https://agenddo.com/roho-hair-boutique-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432667,
+          -34.582187
+        ]
+      },
+      "properties": {
+        "Nombre": "Rústica Peluquería Barbería",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/bMFmwgc.jpg",
+        "URL Store": "https://agenddo.com/rustica-peluqueria-barberia",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4120526,
+          -34.5911013
+        ]
+      },
+      "properties": {
+        "Nombre": "Salón de Belleza Omar Silvero",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/bPIEKCd.jpg",
+        "URL Store": "https://agenddo.com/salon-de-belleza-omar-silvero",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4285624,
+          -34.5776525
+        ]
+      },
+      "properties": {
+        "Nombre": "Santino - Palermo",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/zUjP8hz.jpg",
+        "URL Store": "https://agenddo.com/santino-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4172373,
+          -34.589766
+        ]
+      },
+      "properties": {
+        "Nombre": "Sensoria Estética & Spa ",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Depilación",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/Z4BZRJn.jpg",
+        "URL Store": "https://agenddo.com/sensoria-estetica-&-spa",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.430521,
+          -34.5726811
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Las Cañitas",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/w3K9ATd.jpg",
+        "URL Store": "https://agenddo.com/the-barber-job-las-canitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4117462,
+          -34.5868387
+        ]
+      },
+      "properties": {
+        "Nombre": "Vāltik - Vidt",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/hVLQtf4.jpg",
+        "URL Store": "https://agenddo.com/valtik-vidt",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4348895,
+          -34.5670563
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Cañitas",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-canitas",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4137468,
+          -34.5852018
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4267667,
+          -34.5742714
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Portal Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-portal-palermo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4326542,
+          -34.5701403
+        ]
+      },
+      "properties": {
+        "Nombre": "Zentara",
+        "Rubro": [
+          "Uñas",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/ou5B5aT.jpg",
+        "URL Store": "https://agenddo.com/zentara",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4344567,
+          -34.5756099
+        ]
+      },
+      "properties": {
+        "Nombre": "Salón Bardó",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/gEGuRmI.jpg",
+        "URL Store": "https://agenddo.com/salon-bardo",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4306897,
+          -34.5908087
+        ]
+      },
+      "properties": {
+        "Nombre": "Piel Studio",
+        "Rubro": [
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/ghGrtb0.jpg",
+        "URL Store": "https://agenddo.com/piel-studio",
+        "Barrio": "Palermo",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}

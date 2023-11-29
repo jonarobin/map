@@ -1,0 +1,337 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4358278,
+          -34.6006292
+        ]
+      },
+      "properties": {
+        "Nombre": "Academia Bayres Estética",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/sBtm15d.jpg",
+        "URL Store": "https://agenddo.com/academia-bayres-estetica",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4393878,
+          -34.5996988
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Momento Femenino",
+        "Rubro": [
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/29noCF7.jpg",
+        "URL Store": "https://agenddo.com/ambar-momento-femenino",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Cheek To Cheek",
+        "Rubro": [
+          "Peluquería",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/PXlASxz.jpg",
+        "URL Store": "https://agenddo.com/cheek-to-cheek",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4402192,
+          -34.6002497
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Villa Crespo",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/5TXSiWU.jpg",
+        "URL Store": "https://agenddo.com/depilife-villa-crespo",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4367726,
+          -34.6006757
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Villa Crespo",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/tu4eVLA.jpg",
+        "URL Store": "https://agenddo.com/dr-beauty-villa-crespo",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4466365,
+          -34.6042849
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética y Masajes Bambú",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/LLrzF3K.jpg",
+        "URL Store": "https://agenddo.com/estetica-y-masajes-bambu",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4409205,
+          -34.5976338
+        ]
+      },
+      "properties": {
+        "Nombre": "Gloria Rueda Estética",
+        "Rubro": [
+          "Estética Corporal",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/4dJk7xf.jpg",
+        "URL Store": "https://agenddo.com/gloria-rueda-estetica",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Juicy Make Up",
+        "Rubro": [
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/XkA5K3n.jpg",
+        "URL Store": "https://agenddo.com/juicy-make-up",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4369014,
+          -34.601283
+        ]
+      },
+      "properties": {
+        "Nombre": "Julio Pan",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/bkfmZ6U.jpg",
+        "URL Store": "https://agenddo.com/julio-pan",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Mas Plena",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/jlrlRzd.jpg",
+        "URL Store": "https://agenddo.com/mas-plena",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4552986,
+          -34.6051684
+        ]
+      },
+      "properties": {
+        "Nombre": "MISI Centro de Estética",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/ZMqAoi6.jpg",
+        "URL Store": "https://agenddo.com/misi-centro-de-estetica",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4341191,
+          -34.5996641
+        ]
+      },
+      "properties": {
+        "Nombre": "Nancy Bonito Estética Integral",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/m06GKwx.jpg",
+        "URL Store": "https://agenddo.com/nancy-bonito-estetica-integral",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4391144,
+          -34.5986895
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Villa Crespo",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/j2bmalN.jpg",
+        "URL Store": "https://agenddo.com/nifty-villa-crespo",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4206827,
+          -34.6030381
+        ]
+      },
+      "properties": {
+        "Nombre": "Penny Nail",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/kYWbFPB.jpg",
+        "URL Store": "https://agenddo.com/penny-nail",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4392999,
+          -34.5987922
+        ]
+      },
+      "properties": {
+        "Nombre": "Spa & Estética CL",
+        "Rubro": [
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/Ey4b80b.jpg",
+        "URL Store": "https://agenddo.com/spa-&-estetica-cl",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4579835,
+          -34.6039561
+        ]
+      },
+      "properties": {
+        "Nombre": "Spa Beauty Kd Angel's",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/6aQdzt0.jpg",
+        "URL Store": "https://agenddo.com/spa-beauty-kd-angel's",
+        "Barrio": "Villa Crespo",
+        "Fecha": "26 de nov"
+      }
+    }
+  ]
+}
