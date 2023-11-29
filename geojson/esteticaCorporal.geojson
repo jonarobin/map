@@ -12,7 +12,9 @@
       },
       "properties": {
         "Nombre": "Academia Bayres Estética",
-        "Rubro": "Estética Corporal",
+        "Rubro": [
+          "Estética Corporal"
+        ],
         "Foto": "https://i.imgur.com/sBtm15d.jpg",
         "URL Store": "https://agenddo.com/academia-bayres-estetica",
         "Barrio": "Villa Crespo",
@@ -176,7 +178,7 @@
           "Estética Corporal"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-castelar",
+        "URL Store": "https://agenddo.com/d-unas-castelar",
         "Barrio": "Castelar",
         "Fecha": "26 de nov"
       }
@@ -200,7 +202,7 @@
           "Estética Corporal"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-julian-alvarez",
+        "URL Store": "https://agenddo.com/d-unas-julian-alvarez",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
       }
@@ -223,7 +225,7 @@
           "Estética Corporal"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-olivos",
+        "URL Store": "https://agenddo.com/d-unas-olivos",
         "Barrio": "Olivos",
         "Fecha": "26 de nov"
       }
@@ -246,7 +248,7 @@
           "Estética Corporal"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-parque-leloir",
+        "URL Store": "https://agenddo.com/d-unas-parque-leloir",
         "Barrio": "Ituzaingó",
         "Fecha": "26 de nov"
       }
@@ -261,7 +263,7 @@
         ]
       },
       "properties": {
-        "Nombre": "Estética BE",
+        "Nombre": "Estética BE ",
         "Rubro": [
           "Estética Corporal",
           "SkinCare"
@@ -304,7 +306,7 @@
         ]
       },
       "properties": {
-        "Nombre": "Estética Viso",
+        "Nombre": "Estética Viso ",
         "Rubro": [
           "SkinCare",
           "Estética Corporal",
@@ -349,7 +351,9 @@
       },
       "properties": {
         "Nombre": "GEA ESTÉTICA Y SALUD",
-        "Rubro": "Estética Corporal",
+        "Rubro": [
+          "Estética Corporal"
+        ],
         "Foto": "https://i.imgur.com/rjQeBDu.jpg",
         "URL Store": "https://agenddo.com/gea-estetica-y-salud",
         "Barrio": "Belgrano",
@@ -388,7 +392,9 @@
       },
       "properties": {
         "Nombre": "La Maison Belleza",
-        "Rubro": "Estética Corporal",
+        "Rubro": [
+          "Estética Corporal"
+        ],
         "Foto": "https://i.imgur.com/x0FtWPl.jpg",
         "URL Store": "https://agenddo.com/la-maison-belleza",
         "Barrio": "Palermo",
@@ -406,7 +412,9 @@
       },
       "properties": {
         "Nombre": "Mas Plena",
-        "Rubro": "Estética Corporal",
+        "Rubro": [
+          "Estética Corporal"
+        ],
         "Foto": "https://i.imgur.com/jlrlRzd.jpg",
         "URL Store": "https://agenddo.com/mas-plena",
         "Barrio": "Villa Crespo",
@@ -424,7 +432,9 @@
       },
       "properties": {
         "Nombre": "MISI Centro de Estética",
-        "Rubro": "Estética Corporal",
+        "Rubro": [
+          "Estética Corporal"
+        ],
         "Foto": "https://i.imgur.com/ZMqAoi6.jpg",
         "URL Store": "https://agenddo.com/misi-centro-de-estetica",
         "Barrio": "Villa Crespo",
@@ -484,7 +494,9 @@
       },
       "properties": {
         "Nombre": "Only Esthetic",
-        "Rubro": "Estética Corporal",
+        "Rubro": [
+          "Estética Corporal"
+        ],
         "Foto": "https://i.imgur.com/RGV9NEl.jpg",
         "URL Store": "https://agenddo.com/only-esthetic",
         "Barrio": "Palermo",
@@ -501,7 +513,7 @@
         ]
       },
       "properties": {
-        "Nombre": "Sensoria Estética & Spa",
+        "Nombre": "Sensoria Estética & Spa ",
         "Rubro": [
           "SkinCare",
           "Estética Corporal",
