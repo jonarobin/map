@@ -251,7 +251,7 @@
           "Depilación"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-caballito",
+        "URL Store": "https://agenddo.com/d-unas-caballito",
         "Barrio": "Caballito",
         "Fecha": "26 de nov"
       }
@@ -274,7 +274,7 @@
           "SkinCare"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-ciudad-de-la-paz",
+        "URL Store": "https://agenddo.com/d-unas-ciudad-de-la-paz",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
       }
@@ -295,7 +295,7 @@
           "Depilación"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-freire",
+        "URL Store": "https://agenddo.com/d-unas-freire",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
       }
@@ -319,7 +319,7 @@
           "Estética Corporal"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-julian-alvarez",
+        "URL Store": "https://agenddo.com/d-unas-julian-alvarez",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
       }
@@ -342,7 +342,7 @@
           "SkinCare"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-las-cañitas",
+        "URL Store": "https://agenddo.com/d-unas-las-canitas",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
       }
@@ -364,7 +364,7 @@
           "Depilación"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-nordelta",
+        "URL Store": "https://agenddo.com/d-unas-nordelta",
         "Barrio": "Nordelta",
         "Fecha": "26 de nov"
       }
@@ -387,7 +387,7 @@
           "SkinCare"
         ],
         "Foto": "https://i.imgur.com/466CgJl.jpg",
-        "URL Store": "https://agenddo.com/d-uñas-villa-nueva",
+        "URL Store": "https://agenddo.com/d-unas-villa-nueva",
         "Barrio": "Benavídez",
         "Fecha": "26 de nov"
       }
@@ -424,7 +424,9 @@
       },
       "properties": {
         "Nombre": "Depilife - Almagro",
-        "Rubro": "Depilación",
+        "Rubro": [
+          "Depilación"
+        ],
         "Foto": "https://i.imgur.com/5TXSiWU.jpg",
         "URL Store": "https://agenddo.com/depilife-almagro",
         "Barrio": "Almagro",
@@ -442,7 +444,9 @@
       },
       "properties": {
         "Nombre": "Depilife - Belgrano",
-        "Rubro": "Depilación",
+        "Rubro": [
+          "Depilación"
+        ],
         "Foto": "https://i.imgur.com/5TXSiWU.jpg",
         "URL Store": "https://agenddo.com/depilife-belgrano",
         "Barrio": "Belgrano",
@@ -460,7 +464,9 @@
       },
       "properties": {
         "Nombre": "Depilife - Botánico",
-        "Rubro": "Depilación",
+        "Rubro": [
+          "Depilación"
+        ],
         "Foto": "https://i.imgur.com/5TXSiWU.jpg",
         "URL Store": "https://agenddo.com/depilife-botánico",
         "Barrio": "Palermo",
@@ -478,7 +484,9 @@
       },
       "properties": {
         "Nombre": "Depilife - Caballito",
-        "Rubro": "Depilación",
+        "Rubro": [
+          "Depilación"
+        ],
         "Foto": "https://i.imgur.com/5TXSiWU.jpg",
         "URL Store": "https://agenddo.com/depilife-caballito",
         "Barrio": "Caballito",
