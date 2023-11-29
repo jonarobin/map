@@ -305,7 +305,7 @@
           "Peluquería"
         ],
         "Foto": "https://i.imgur.com/C0EyMW7.jpg",
-        "URL Store": "https://agenddo.com/glow-peluqueria-cañitas",
+        "URL Store": "https://agenddo.com/glow-peluqueria-canitas",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
       }
@@ -858,7 +858,7 @@
           "Peluquería"
         ],
         "Foto": "https://i.imgur.com/9UcBPbR.jpg",
-        "URL Store": "https://agenddo.com/prana-peluqueria-de-diseño-cramer",
+        "URL Store": "https://agenddo.com/prana-peluqueria-de-diseno-cramer",
         "Barrio": "Belgrano",
         "Fecha": "26 de nov"
       }
@@ -878,7 +878,7 @@
           "Peluquería"
         ],
         "Foto": "https://i.imgur.com/9UcBPbR.jpg",
-        "URL Store": "https://agenddo.com/prana-peluqueria-de-diseño-palermo",
+        "URL Store": "https://agenddo.com/prana-peluqueria-de-diseno-palermo",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
       }
@@ -1189,7 +1189,7 @@
           "Barbería"
         ],
         "Foto": "https://i.imgur.com/w3K9ATd.jpg",
-        "URL Store": "https://agenddo.com/the-barber-job-las-cañitas",
+        "URL Store": "https://agenddo.com/the-barber-job-las-canitas",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
       }
@@ -1540,7 +1540,7 @@
           "Peluquería"
         ],
         "Foto": "https://i.imgur.com/k5zC00U.jpg",
-        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-cañitas",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-canitas",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
       }
@@ -1605,7 +1605,46 @@
         "Fecha": "26 de nov"
       }
     },
-   
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5402131,
+          -38.0083397
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Mar del Plata",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-mar-del-plata",
+        "Barrio": "Mar del Plata",
+        "Fecha": "26 de nov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5437628,
+          -38.0123927
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - MDQ Paseo Aldrey",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/k5zC00U.jpg",
+        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-mdq-paseo-aldrey",
+        "Barrio": "Mar del Plata",
+        "Fecha": "26 de nov"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
