@@ -34,7 +34,9 @@
       },
       "properties": {
         "Nombre": "Hawai Solarium",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/iKgYovq.jpg",
         "URL Store": "https://agenddo.com/hawai-solarium",
         "Barrio": "Palermo",
@@ -52,9 +54,11 @@
       },
       "properties": {
         "Nombre": "Luxury Bronze",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/Mao3MLE.jpg",
-        "URL Store": "https://agenddo.com/luxury-bronze-cañitas",
+        "URL Store": "https://agenddo.com/luxury-bronze-canitas",
         "Barrio": "Palermo",
         "Fecha": "26 de nov"
       }
@@ -70,7 +74,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Belgrano",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-belgrano",
         "Barrio": "Belgrano",
@@ -88,7 +94,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Caballito",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-caballito",
         "Barrio": "Caballito",
@@ -106,7 +114,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Canning",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-canning",
         "Barrio": "Canning",
@@ -124,7 +134,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Las Lomitas",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-las-lomitas",
         "Barrio": "Lomas de Zamora",
@@ -142,7 +154,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Nordelta",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-nordelta",
         "Barrio": "Nordelta",
@@ -160,9 +174,11 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Nuñez",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
-        "URL Store": "https://agenddo.com/natural-bronze-nuñez",
+        "URL Store": "https://agenddo.com/natural-bronze-nunez",
         "Barrio": "Nuñez",
         "Fecha": "26 de nov"
       }
@@ -178,7 +194,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Olivos",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-olivos",
         "Barrio": "Olivos",
@@ -196,7 +214,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Palermo",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-palermo",
         "Barrio": "Palermo",
@@ -214,7 +234,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Pilar",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-pilar",
         "Barrio": "Pilar",
@@ -232,7 +254,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Ramos Mejía",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-ramos-mejia",
         "Barrio": "Ramos Mejía",
@@ -250,7 +274,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Recoleta",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-recoleta",
         "Barrio": "Recoleta",
@@ -268,7 +294,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - San Isidro",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-san-isidro",
         "Barrio": "San Isidro",
@@ -286,7 +314,9 @@
       },
       "properties": {
         "Nombre": "Natural Bronze - Urquiza",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/3pk0MKO.jpg",
         "URL Store": "https://agenddo.com/natural-bronze-urquiza",
         "Barrio": "Villa Urquiza",
@@ -304,7 +334,9 @@
       },
       "properties": {
         "Nombre": "Tan & Go",
-        "Rubro": "Bronceado",
+        "Rubro": [
+          "Bronceado"
+        ],
         "Foto": "https://i.imgur.com/IzW34tX.jpg",
         "URL Store": "https://agenddo.com/tan-&-go",
         "Barrio": "Caballito",
