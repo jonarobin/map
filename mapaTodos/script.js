@@ -99,3 +99,27 @@ changeCategoryButton.addEventListener('click', function () {
 
     categoriaDropdown.value = selectedCategoria;
 });
+
+
+
+
+
+
+
+
+// Contenido del Iframe Cargado - Solo JavaScript
+document.addEventListener("DOMContentLoaded", function () {
+    var iframe = document.getElementById('contenidoIframe');
+    
+    // Escucha los mensajes enviados desde el iframe principal
+    window.addEventListener('message', function(event) {
+        // Verifica el origen del mensaje para asegurarte de que proviene del iframe principal
+        if (event.origin === 'https://agenddo.com') {
+            // Maneja los diferentes tipos de mensajes
+            if (event.data.type === 'openUrl') {
+                // Abre la URL en el iframe cargado
+                iframe.src = event.data.url;
+            }
+        }
+    });
+});
