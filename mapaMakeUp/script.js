@@ -99,3 +99,16 @@ changeCategoryButton.addEventListener('click', function () {
 
     categoriaDropdown.value = selectedCategoria;
 });
+
+
+// Configuramos un listener para escuchar mensajes desde la página principal
+        window.addEventListener("message", function (event) {
+            if (event.origin === "https://dominio-principal.com") {
+                // Solo procesamos mensajes del dominio principal
+                // Puedes validar y procesar el mensaje según tus necesidades
+                console.log("Mensaje recibido desde el iframe principal:", event.data);
+
+                // Enviamos un mensaje de vuelta a la página principal
+                event.source.postMessage("Hola desde el iframe en GitHub", "https://dominio-principal.com");
+            }
+        });
