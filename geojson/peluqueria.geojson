@@ -1605,26 +1605,7 @@
         "Fecha": "26 de nov"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.5402131,
-          -38.0083397
-        ]
-      },
-      "properties": {
-        "Nombre": "ViPeluquería's (Leo Paparella) - Mar del Plata",
-        "Rubro": [
-          "Peluquería"
-        ],
-        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
-        "URL Store": "https://agenddo.com/vipeluqueria's-(leo-paparella)-mar-del-plata",
-        "Barrio": "Mar del Plata",
-        "Fecha": "26 de nov"
-      }
-    },
+
    
     {
       "type": "Feature",
