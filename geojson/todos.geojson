@@ -4618,17 +4618,7 @@
         "Fecha": "26 de nov"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.5402131,
-          -38.0083397
-        ]
-      },
-  
-  
+    
     {
       "type": "Feature",
       "geometry": {
