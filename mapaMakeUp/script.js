@@ -105,7 +105,7 @@ changeCategoryButton.addEventListener('click', function () {
 
       // Configuramos un listener para escuchar mensajes desde el iframe principal
         window.addEventListener("message", function (event) {
-            if (event.origin === "https://dominio-principal.com") {
+            if (event.origin === "https://www.agenddo.com") {
                 // Solo procesamos mensajes del dominio principal
                 // Puedes validar y procesar el mensaje según tus necesidades
                 console.log("Mensaje recibido desde el iframe principal:", event.data);
