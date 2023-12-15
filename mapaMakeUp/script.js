@@ -101,16 +101,4 @@ changeCategoryButton.addEventListener('click', function () {
 });
 
 
-     document.addEventListener("DOMContentLoaded", function () {
-            // Configuramos un listener para escuchar mensajes desde la página principal
-            window.addEventListener("message", function (event) {
-                if (event.origin === "https://www.agenddo.com") {
-                    // Solo procesamos mensajes del dominio de la página principal
-                    // Puedes validar y procesar el mensaje según tus necesidades
-                    console.log("Mensaje recibido desde la página principal:", event.data);
 
-                    // Enviamos un mensaje a la página principal indicando que estamos listos
-                    window.parent.postMessage("Iframe de GitHub listo", "https://www.agenddo.com");
-                }
-            });
-        });
