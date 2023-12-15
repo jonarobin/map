@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r
     ext: 'png'
 }).addTo(map);
 
-let geojsonUrl = "https://raw.githubusercontent.com/jonarobin/map/main/geojson/bronceado.geojson";
+let geojsonUrl = "https://raw.githubusercontent.com/jonarobin/map/main/geojson/masajes.geojson";
 
 let markersLayer;
 let allCategories = [];
