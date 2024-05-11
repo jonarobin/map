@@ -5,10 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -58.4500642,
-          -34.5677757
-        ]
+        "coordinates": [-34.5683286, -58.44852359999999]
       },
       "properties": {
         "name": "demo",
@@ -40,10 +37,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -58.4500642,
-          -34.5677757
-        ]
+        "coordinates": [-34.5993997, -58.448539]
       },
       "properties": {
         "name": "jrobin",
@@ -71,10 +65,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -58.4500642,
-          -34.5677757
-        ]
+        "coordinates": [-34.5992112, -58.432638]
       },
       "properties": {
         "name": "Salón Agos Gianoli",
@@ -131,10 +122,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -58.4500642,
-          -34.5677757
-        ]
+        "coordinates": [-34.5934775, -58.4252341]
       },
       "properties": {
         "name": "DIEGO NUBLE",
